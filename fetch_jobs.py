@@ -81,8 +81,6 @@ def load_existing():
     try:
         with open(OUT_FILE,encoding="utf-8") as f:
             d=json.load(f); return d.get("jobs",[]) if isinstance(d,dict) else []
-    except Exception: return []
-
 def main():
     day_index=datetime.now(timezone.utc).timetuple().tm_yday
     rot=KEYWORDS[day_index%len(KEYWORDS):]+KEYWORDS[:day_index%len(KEYWORDS)]
@@ -91,8 +89,12 @@ def main():
     fresh=[]
     fresh+=fetch_jsearch(batch) if JSEARCH_KEY else print("[jsearch] skipped (no key)") or []
     fresh+=fetch_adzuna(batch) if (ADZUNA_ID and ADZUNA_KEY) else print("[adzuna] skipped (no key)") or []
-    merged={j["id"]:j for j in load_existing()}
-    for j in fresh: merged[j["id"]]=j
+    def dkey(j):
+        t=re.sub(r'\+',',(j.get('title') or '').lower())
+                 c=re.sub(r'\+',',(j.get('company') or '').lower())
+                 return t+'|'+c    
+    merged={dkey(j):j for j in load_existing()}
+    for j in fresh: merged[dkey(j)]=j
     cutoff=(datetime.now(timezone.utc)-timedelta(days=MAX_AGE_DAYS)).date().isoformat()
     jobs=[j for j in merged.values() if (j.get("posted") or "9999")>=cutoff]
     jobs.sort(key=lambda j:j.get("posted") or "",reverse=True); jobs=jobs[:MAX_JOBS]
