@@ -1,0 +1,34 @@
+name: Fetch AI/Data jobs
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch jobs
+        env:
+          JSEARCH_API_KEY: ${{ secrets.JSEARCH_API_KEY }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python fetch_jobs.py
+
+      - name: Commit jobs.json
+        run: |
+          git config user.name "aividdya-jobs-bot"
+          git config user.email "aividdya-jobs-bot@users.noreply.github.com"
+          git add jobs.json
+          git diff --cached --quiet || git commit -m "jobs update $(date -u +%Y-%m-%d)"
+          git push
