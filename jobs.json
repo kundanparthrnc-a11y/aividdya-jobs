@@ -1,7 +1,19 @@
 {
- "updated_at": "2026-10-11T20:06:43+00:00",
- "count": 17,
+ "updated_at": "2026-10-12T10:17:43+00:00",
+ "count": 20,
  "jobs": [
+  {
+   "id": "az_5923576234",
+   "title": "MLOps Engineer",
+   "company": "Creuto",
+   "location": "India, India",
+   "type": "permanent",
+   "posted": "2026-10-12",
+   "description": "MLOps Engineer DEPARTMENT Artificial Intelligence EMPLOYMENT TYPE Full Time LOCATION India EXPERIENCE 2 Years About the Role We are looking for an MLOps Engineer with 2 to 5 years of experience to build and maintain the infrastructure, pipelines, and tooling that take machine learning models from development to production reliably. You will work closely with data scientists and AI engineers to remove the friction between model building and model deployment. In This Role, You Will Build and mai…",
+   "apply_url": "https://www.adzuna.in/details/5923576234?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "mlops engineer"
+  },
   {
    "id": "az_5921252424",
    "title": "Data Analyst",
@@ -13,6 +25,18 @@
    "apply_url": "https://www.adzuna.in/details/5921252424?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data analyst"
+  },
+  {
+   "id": "az_5921179891",
+   "title": "Machine Learning Engineer",
+   "company": "Video SDK",
+   "location": "Aganovad, Surat, India",
+   "type": "permanent",
+   "posted": "2026-10-10",
+   "description": "About VideoSDK : VideoSDK is a real-time communication platform that helps developers and businesses build scalable video, voice, and interactive experiences into their applications. With powerful APIs and SDKs, VideoSDK enables teams to create custom solutions for video conferencing, live streaming, webinars, virtual classrooms, and collaborative applications without worrying about the complexities of infrastructure. Position : Machine Learning Engineer Location : Surat, GJ (Onsite) Experience…",
+   "apply_url": "https://www.adzuna.in/details/5921179891?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "machine learning engineer"
   },
   {
    "id": "az_5918133861",
@@ -37,6 +61,18 @@
    "apply_url": "https://www.adzuna.in/details/5916983454?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data analyst"
+  },
+  {
+   "id": "az_5916869366",
+   "title": "Machine Learning Engineer",
+   "company": "Innover Systems",
+   "location": "Pune, Maharashtra, India",
+   "type": "permanent",
+   "posted": "2026-10-07",
+   "description": "Position: Machine Learning Engineer Job Type: Full Time, Permanent Location : Baner, Pune We are looking for a visionary Machine Learning Engineer to bridge the gap between cutting-edge research and real-world applications. In this role, you won’t just be training models; you will be architecting the visual intelligence that powers our next generation of products. You will join a high-impact team dedicated to solving complex spatial and visual problems at scale. What You’ll Do Architect & Innov…",
+   "apply_url": "https://www.adzuna.in/details/5916869366?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "machine learning engineer"
   },
   {
    "id": "az_5913832201",
@@ -147,16 +183,16 @@
    "category": "data engineer"
   },
   {
-   "id": "az_5889562543",
-   "title": "MLOps Engineer",
-   "company": "Fusemachines",
+   "id": "az_5889544216",
+   "title": "Machine Learning Engineer",
+   "company": "MedTourEasy",
    "location": "India, India",
-   "type": "contract",
+   "type": "",
    "posted": "2026-09-18",
-   "description": "About Fusemachines Fusemachines is a leading AI strategy, talent, and education services provider. Founded by Sameer Maskey Ph.D., Adjunct Associate Professor at Columbia University, Fusemachines has a core mission of democratizing AI. With a presence in 4 countries (Nepal, the United States, Canada, and the Dominican Republic) and more than 450 full-time employees, Fusemachines brings global AI expertise to transform companies worldwide. Founded in 2013, Fusemachines is a global provider of en…",
-   "apply_url": "https://www.adzuna.in/details/5889562543?utm_medium=api&utm_source=76e676fd",
+   "description": "Company Overview MedTourEasy, a global healthcare company, provides you the informational resources needed to evaluate your global options. MedTourEasy provides analytical solutions to our partner healthcare providers globally. Job Title Machine Learning Engineer Job Location Bengaluru, India Gurgaon, India New Delhi, India Noida, India International Years of Experience 0-5 years Job Description As a Machine Learning Engineer at Medtoureasy, you will be at the forefront of developing and implem…",
+   "apply_url": "https://www.adzuna.in/details/5889544216?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
-   "category": "mlops engineer"
+   "category": "machine learning engineer"
   },
   {
    "id": "az_5886288934",
