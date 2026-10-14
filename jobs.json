@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-13T01:19:13+00:00",
- "count": 20,
+ "updated_at": "2026-10-14T01:29:00+00:00",
+ "count": 25,
  "jobs": [
   {
    "id": "az_5923576234",
@@ -75,6 +75,42 @@
    "category": "machine learning engineer"
   },
   {
+   "id": "az_5916983421",
+   "title": "Python Developer",
+   "company": "Stafio.ai",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-10-07",
+   "description": "Stafio.ai is a forward-thinking technology company specializing in artificial intelligence solutions that drive innovation across various industries. We are currently seeking a talented and motivated Python Developer to join our dynamic team. The ideal candidate will play a critical role in designing, developing, and maintaining cutting-edge AI applications and services that power our products. This position offers an excellent opportunity to work in a collaborative environment where creativity…",
+   "apply_url": "https://www.adzuna.in/details/5916983421?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "python developer"
+  },
+  {
+   "id": "az_5914221318",
+   "title": "Python Developer",
+   "company": "Trigent Software Private Limited",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-10-07",
+   "description": "Description Python, Microservices, Deployment to EKS, Understanding on AWS, GCP basic services, MongoDB Description: We are seeking a highly skilled Python Developer with strong experience in Microservices Architecture and MongoDB to join our technology team. The ideal candidate will be responsible for designing, developing, and maintaining scalable, high performance applications while ensuring code quality and system reliability. Key Responsibilities Design, develop, and deploy robust backend …",
+   "apply_url": "https://www.adzuna.in/details/5914221318?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "python developer"
+  },
+  {
+   "id": "az_5917364389",
+   "title": "Python Developer",
+   "company": "RECEX",
+   "location": "Mumbai, Maharashtra, India",
+   "type": "",
+   "posted": "2026-10-07",
+   "description": "Job Description: We have a opening for a Python Developer with 1–1.5 years of experience, with a strong focus on pure development. Candidates should be interested in working on Automation Testing, as the role will involve both Python development and automation testing. Key Details: Experience: 1–1.5 years Strong Python development experience required Interest in Automation Testing is essential Projects: AI-based projects Role will involve writing code in Python and working on Automation Testing",
+   "apply_url": "https://www.adzuna.in/details/5917364389?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "python developer"
+  },
+  {
    "id": "az_5913832201",
    "title": "Data Analyst",
    "company": "Pratiti Technologies Pvt. Ltd.",
@@ -133,6 +169,30 @@
    "apply_url": "https://www.adzuna.in/details/5906993981?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "mlops engineer"
+  },
+  {
+   "id": "az_5903295413",
+   "title": "Python Developer",
+   "company": "Blumetra",
+   "location": "Hyderabad, Telangana, India",
+   "type": "permanent",
+   "posted": "2026-09-30",
+   "description": "Job Summary We are looking for an experienced Python Developer with 5–7 years of hands-on experience in designing, developing, testing, and maintaining scalable applications. The ideal candidate should have strong expertise in Python, backend development, REST APIs, databases, and cloud technologies, with a focus on writing clean, maintainable, and high-quality code. Key Responsibilities Design, develop, test, and maintain scalable backend applications using Python. Develop and integrate RESTfu…",
+   "apply_url": "https://www.adzuna.in/details/5903295413?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "python developer"
+  },
+  {
+   "id": "az_5904146923",
+   "title": "PYTHON DEVELOPER",
+   "company": "Vrinda International",
+   "location": "India, India",
+   "type": "contract",
+   "posted": "2026-09-30",
+   "description": "Python Developer Summary We are seeking an experienced Python Developer to join our IT Services team, where you will play a pivotal role in designing, building, and maintaining robust software solutions. This position demands a professional with deep expertise in the banking and financial services sector, capable of leveraging advanced data engineering principles to drive business value. The ideal candidate will be responsible for optimizing system performance, resolving complex technical chall…",
+   "apply_url": "https://www.adzuna.in/details/5904146923?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "python developer"
   },
   {
    "id": "az_5902287163",
