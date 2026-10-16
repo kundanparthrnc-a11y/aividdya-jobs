@@ -1,7 +1,31 @@
 {
- "updated_at": "2026-10-15T01:28:32+00:00",
- "count": 26,
+ "updated_at": "2026-10-16T01:28:08+00:00",
+ "count": 28,
  "jobs": [
+  {
+   "id": "az_5929351063",
+   "title": "Data Analyst",
+   "company": "Acme Services Private Limited",
+   "location": "Richmond Town, Bangalore, India",
+   "type": "",
+   "posted": "2026-10-16",
+   "description": "Job Description: Identify data gaps and coordinate with business teams to capture, validate, and organize missing information. Perform data cleansing by identifying incorrect or incomplete data and executing remediation plans. Reconcile source and target data during migration using Excel and data analytics tools. Validate migrated data against defined mapping rules through quantitative and qualitative checks. Prepare reconciliation reports, highlight discrepancies, escalate issues, and drive th…",
+   "apply_url": "https://www.adzuna.in/details/5929351063?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data analyst"
+  },
+  {
+   "id": "az_5927952356",
+   "title": "Data Analyst",
+   "company": "VDart Software Services Pvt. Ltd.",
+   "location": "Noida, Ghaziabad, India",
+   "type": "",
+   "posted": "2026-10-15",
+   "description": "Job Description Data Analyst Location: Noida Employment Type: Contract Experience: 5 Years Position Overview We are looking for an experienced Data Analyst with strong analytical, SQL, Excel, and Business Intelligence skills. The candidate will be responsible for analysing Configuration Management Database (CMDB) data, improving data quality, automating data processes, and designing incremental data imports. The role requires strong problem-solving skills and the ability to communicate insights…",
+   "apply_url": "https://www.adzuna.in/details/5927952356?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data analyst"
+  },
   {
    "id": "az_5923576234",
    "title": "MLOps Engineer",
