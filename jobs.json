@@ -1,7 +1,19 @@
 {
- "updated_at": "2026-10-16T01:28:08+00:00",
- "count": 28,
+ "updated_at": "2026-10-17T01:27:55+00:00",
+ "count": 30,
  "jobs": [
+  {
+   "id": "az_5931146797",
+   "title": "MLOps ENGINEER",
+   "company": "Vrinda International",
+   "location": "Delhi, India, India",
+   "type": "permanent",
+   "posted": "2026-10-17",
+   "description": "MLOps Engineer Summary We are seeking a skilled MLOps Engineer to join our IT Services team, where you will play a pivotal role in bridging the gap between data science and production environments. This position is dedicated to streamlining the deployment lifecycle of machine learning models, ensuring they are robust, scalable, and efficient. The ideal candidate will leverage their expertise in automation and performance optimization to drive the successful integration of AI solutions into our …",
+   "apply_url": "https://www.adzuna.in/details/5931146797?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "mlops engineer"
+  },
   {
    "id": "az_5929351063",
    "title": "Data Analyst",
@@ -11,6 +23,18 @@
    "posted": "2026-10-16",
    "description": "Job Description: Identify data gaps and coordinate with business teams to capture, validate, and organize missing information. Perform data cleansing by identifying incorrect or incomplete data and executing remediation plans. Reconcile source and target data during migration using Excel and data analytics tools. Validate migrated data against defined mapping rules through quantitative and qualitative checks. Prepare reconciliation reports, highlight discrepancies, escalate issues, and drive th…",
    "apply_url": "https://www.adzuna.in/details/5929351063?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data analyst"
+  },
+  {
+   "id": "az_5930601927",
+   "title": "Data Analyst",
+   "company": "GoTymeX",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-10-16",
+   "description": "Description About This Role: We’re looking for a Data Analyst who’s excited to dig into the numbers, uncover insights, and help the business make smarter decisions. In this role, you’ll partner with teams across the company to understand their questions, explore the data, and turn your findings into clear, practical recommendations. While your main focus will be analysis and storytelling, you’ll also bring solid technical skills to the table — helping us build reliable datasets, improve reporti…",
+   "apply_url": "https://www.adzuna.in/details/5930601927?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data analyst"
   },
