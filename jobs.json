@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-17T01:27:55+00:00",
- "count": 30,
+ "updated_at": "2026-10-18T01:28:31+00:00",
+ "count": 33,
  "jobs": [
   {
    "id": "az_5931146797",
@@ -13,6 +13,30 @@
    "apply_url": "https://www.adzuna.in/details/5931146797?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "mlops engineer"
+  },
+  {
+   "id": "az_5931144372",
+   "title": "Data Analyst",
+   "company": "H&M",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-10-17",
+   "description": "Job Description WHAT YOU’LL DO ​ As a Data Analyst, you are responsible for transforming data into actionable insights that support business decisions and drive performance. You collect, analyse, and interpret complex datasets, develop reports and dashboards, and identify trends, patterns, and opportunities for improvement. Working closely with stakeholders across functions, you ensure data accuracy. Collect, clean, validate, and analyse data from multiple sources. Use Python or R for data anal…",
+   "apply_url": "https://www.adzuna.in/details/5931144372?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data analyst"
+  },
+  {
+   "id": "az_5931146795",
+   "title": "DATA ENGINEER",
+   "company": "Vrinda International",
+   "location": "Delhi, India, India",
+   "type": "permanent",
+   "posted": "2026-10-17",
+   "description": "Role Overview We are seeking a highly skilled Data Engineer to join our IT Services division. In this pivotal role, you will be responsible for architecting, building, and maintaining robust data infrastructure that empowers our organization to leverage its data assets effectively. You will play a critical part in ensuring data accuracy, accessibility, and efficiency across our cloud environments, directly supporting strategic decision-making and operational excellence. Key Responsibilities Des…",
+   "apply_url": "https://www.adzuna.in/details/5931146795?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data engineer"
   },
   {
    "id": "az_5929351063",
@@ -49,6 +73,18 @@
    "apply_url": "https://www.adzuna.in/details/5927952356?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data analyst"
+  },
+  {
+   "id": "az_5929124916",
+   "title": "Data Engineer",
+   "company": "Datamatics Technologies",
+   "location": "Tondiarpet Fort St George, Chennai, India",
+   "type": "",
+   "posted": "2026-10-15",
+   "description": "Job Description – Data Engineer Employment Type: Full-Time Work Location: KSA Experience Required: Hands-on experience with Spark development, Informatica integration solutions, and enterprise data platforms. Years of Experience: 5 to 10 Role Overview We are looking for a Data Engineer to build, configure, and optimize data ingestion, transformation, and consumption workloads on a modern on-premises lakehouse platform. The ideal candidate will have strong hands-on experience with Spark-based de…",
+   "apply_url": "https://www.adzuna.in/details/5929124916?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data engineer"
   },
   {
    "id": "az_5923576234",
