@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-18T01:28:31+00:00",
- "count": 33,
+ "updated_at": "2026-10-19T01:31:52+00:00",
+ "count": 34,
  "jobs": [
   {
    "id": "az_5931146797",
@@ -75,14 +75,14 @@
    "category": "data analyst"
   },
   {
-   "id": "az_5929124916",
+   "id": "az_5929124914",
    "title": "Data Engineer",
    "company": "Datamatics Technologies",
-   "location": "Tondiarpet Fort St George, Chennai, India",
+   "location": "Bazargate, Mumbai, India",
    "type": "",
    "posted": "2026-10-15",
    "description": "Job Description – Data Engineer Employment Type: Full-Time Work Location: KSA Experience Required: Hands-on experience with Spark development, Informatica integration solutions, and enterprise data platforms. Years of Experience: 5 to 10 Role Overview We are looking for a Data Engineer to build, configure, and optimize data ingestion, transformation, and consumption workloads on a modern on-premises lakehouse platform. The ideal candidate will have strong hands-on experience with Spark-based de…",
-   "apply_url": "https://www.adzuna.in/details/5929124916?utm_medium=api&utm_source=76e676fd",
+   "apply_url": "https://www.adzuna.in/details/5929124914?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data engineer"
   },
@@ -193,6 +193,18 @@
    "apply_url": "https://www.adzuna.in/details/5917364389?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "python developer"
+  },
+  {
+   "id": "az_5916889704",
+   "title": "Machine Learning Engineer",
+   "company": "Potentiam",
+   "location": "Bangalore, Karnataka, India",
+   "type": "",
+   "posted": "2026-10-07",
+   "description": "● Proven experience in training, evaluating and deploying machine learning models ● Solid understanding of data science and machine learning concepts ● Experience with some machine learning / data engineering machine learning tech in Python (such as numpy, pytorch, pandas/polars, airflow, etc) ● Experience developing data products using large language model, prompt engineering, model evaluation. ● Experience with web services and programming (such as Python, docker, databases etc.) ● Understand…",
+   "apply_url": "https://www.adzuna.in/details/5916889704?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "machine learning engineer"
   },
   {
    "id": "az_5913832201",
