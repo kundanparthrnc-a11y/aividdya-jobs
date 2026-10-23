@@ -1,7 +1,43 @@
 {
- "updated_at": "2026-10-22T01:31:37+00:00",
- "count": 41,
+ "updated_at": "2026-10-23T01:35:02+00:00",
+ "count": 44,
  "jobs": [
+  {
+   "id": "az_5938283355",
+   "title": "Python Developer",
+   "company": "TalentOla",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-10-23",
+   "description": "As a Python Engineer at GlobalLogic, you will be a key player in our Digital Engineering team. You will design, develop, and maintain high-performance, scalable backend services while ensuring seamless integration with modern frontend frameworks. You will work on global projects that require a \"Chip-to-Cloud\" mindset, helping our clients solve complex business challenges through intelligent software products. Key Responsibilities Architecture & Development: Design and build robust, scalable bac…",
+   "apply_url": "https://www.adzuna.in/details/5938283355?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "python developer"
+  },
+  {
+   "id": "az_5938010600",
+   "title": "Reporting and Data Analyst",
+   "company": "WTW",
+   "location": "Kolkata, West Bengal, India",
+   "type": "",
+   "posted": "2026-10-22",
+   "description": "This job is with WTW, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Description About WTW Willis Towers Watson (NASDAQ: WLTW) is a leading global advisory, broking and solutions company that helps clients around the world turn risk into a path for growth. With roots dating to 1828, Willis Towers Watson has 45,000 employees serving more than 140 countries and markets. We design and deliv…",
+   "apply_url": "https://www.adzuna.in/land/ad/5938010600?se=ivTD9oHO8RGiY7N8xe78DA&utm_medium=api&utm_source=76e676fd&v=51AD62DCFB09DABA0D3383676359A26871758597",
+   "source": "Adzuna",
+   "category": "data analyst"
+  },
+  {
+   "id": "az_5938235767",
+   "title": "Data Analyst",
+   "company": "Louis Dreyfus Company",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-10-22",
+   "description": "Job Description We are seeking a skilled and motivated Data Analyst with a focus on agronomy and international trade flows , particularly related to Indian crop routines . This role will support strategic decision-making through data-driven insights and will be instrumental in managing and analyzing crop and trade data across geographies. Main Responsibilities Crop Data Management: Collect, clean, and analyze agronomic data from Indian crop routines, especially sugarcane in Maharashtra. Trade F…",
+   "apply_url": "https://www.adzuna.in/details/5938235767?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data analyst"
+  },
   {
    "id": "az_5932564470",
    "title": "Python Developer",
