@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-23T01:35:02+00:00",
- "count": 44,
+ "updated_at": "2026-10-24T01:36:26+00:00",
+ "count": 45,
  "jobs": [
   {
    "id": "az_5938283355",
@@ -15,6 +15,18 @@
    "category": "python developer"
   },
   {
+   "id": "az_5939556539",
+   "title": "Data Analyst",
+   "company": "Louis Dreyfus Company",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-10-23",
+   "description": "Job Description We are seeking a skilled and motivated Data Analyst with a focus on agronomy and international trade flows , particularly related to Indian crop routines . This role will support strategic decision-making through data-driven insights and will be instrumental in managing and analyzing crop and trade data across geographies. Main Responsibilities Crop Data Management: Collect, clean, and analyze agronomic data from Indian crop routines, especially sugarcane in Maharashtra. Trade F…",
+   "apply_url": "https://www.adzuna.in/details/5939556539?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data analyst"
+  },
+  {
    "id": "az_5938010600",
    "title": "Reporting and Data Analyst",
    "company": "WTW",
@@ -27,16 +39,16 @@
    "category": "data analyst"
   },
   {
-   "id": "az_5938235767",
-   "title": "Data Analyst",
-   "company": "Louis Dreyfus Company",
-   "location": "India, India",
+   "id": "az_5934108529",
+   "title": "MLOps Engineer",
+   "company": "Unico Connect",
+   "location": "Mumbai, Maharashtra, India",
    "type": "",
-   "posted": "2026-10-22",
-   "description": "Job Description We are seeking a skilled and motivated Data Analyst with a focus on agronomy and international trade flows , particularly related to Indian crop routines . This role will support strategic decision-making through data-driven insights and will be instrumental in managing and analyzing crop and trade data across geographies. Main Responsibilities Crop Data Management: Collect, clean, and analyze agronomic data from Indian crop routines, especially sugarcane in Maharashtra. Trade F…",
-   "apply_url": "https://www.adzuna.in/details/5938235767?utm_medium=api&utm_source=76e676fd",
+   "posted": "2026-10-19",
+   "description": "MLOps Engineer Junior (1-3 Years) Mumbai, India Full-time, on-site Apply for this role Overview Unico Connect is seeking an MLOps Engineer to operate the infrastructure that takes ML and LLM models from notebooks to reliable production. The role spans CI/CD for models, observability for non-deterministic systems, deployment automation, and the platform tooling that lets AI Engineers ship faster. The position is well suited to engineers who enjoy the intersection of infrastructure, ML systems, a…",
+   "apply_url": "https://www.adzuna.in/details/5934108529?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
-   "category": "data analyst"
+   "category": "mlops engineer"
   },
   {
    "id": "az_5932564470",
