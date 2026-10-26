@@ -1,7 +1,19 @@
 {
- "updated_at": "2026-10-25T01:28:07+00:00",
- "count": 49,
+ "updated_at": "2026-10-26T01:40:06+00:00",
+ "count": 51,
  "jobs": [
+  {
+   "id": "az_5940785140",
+   "title": "Data Engineer",
+   "company": "VDart Software Services Pvt. Ltd.",
+   "location": "Richmond Town, Bangalore, India",
+   "type": "",
+   "posted": "2026-10-25",
+   "description": "Data Engineer Snowflake / SQL / DBT Positions: 4 Experience: 8 Years Location: Bangalore / Hyderabad Mandatory Skills: Strong hands-on experience in SQL and Snowflake (Very High Weightage). Working experience in at least one of the following: DBT or Coalesce . Strong understanding of Data Warehousing concepts and ETL/ELT processes. Experience in data modeling and building scalable data pipelines. Strong SQL query development and performance tuning skills. Good to Have: Experience in Data Vault …",
+   "apply_url": "https://www.adzuna.in/details/5940785140?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data engineer"
+  },
   {
    "id": "az_5940684055",
    "title": "Senior Financial Data Analyst",
@@ -39,6 +51,30 @@
    "category": "data engineer"
   },
   {
+   "id": "az_5939602452",
+   "title": "Machine learning engineer",
+   "company": "Trigent Software Private Limited",
+   "location": "Richmond Town, Bangalore, India",
+   "type": "",
+   "posted": "2026-10-24",
+   "description": "About Wipro - is a leading AI-powered technology services and consulting company focused on building innovative solutions that address clients' most complex digital transformation needs. Leveraging our consulting-led approach and the Wipro Intelligence unified suite of AI-powered platforms, solutions and transformative offerings, we help clients realize their boldest ambitions to build intelligent and sustainable businesses. The Wipro Innovation Network part of the Wipro Intelligence suite unde…",
+   "apply_url": "https://www.adzuna.in/details/5939602452?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "machine learning engineer"
+  },
+  {
+   "id": "az_5939602303",
+   "title": "Machine Learning Engineer",
+   "company": "TalentOla",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-10-24",
+   "description": "a { text-decoration: none; color: 464feb; } tr th, tr td { border: 1px solid e6e6e6; } tr th { background-color: f5f5f5; } We are seeking an experienced AI/ML Engineer with strong expertise in Generative AI, Agentic AI, Large Language Models (LLMs), RAG, LangChain, and LangGraph . The ideal candidate should have hands-on experience building and deploying production-grade AI applications, machine learning models, and intelligent automation solutions using modern AI frameworks and cloud platforms…",
+   "apply_url": "https://www.adzuna.in/details/5939602303?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "machine learning engineer"
+  },
+  {
    "id": "az_5938283355",
    "title": "Python Developer",
    "company": "TalentOla",
@@ -73,6 +109,18 @@
    "apply_url": "https://www.adzuna.in/land/ad/5938010600?se=ivTD9oHO8RGiY7N8xe78DA&utm_medium=api&utm_source=76e676fd&v=51AD62DCFB09DABA0D3383676359A26871758597",
    "source": "Adzuna",
    "category": "data analyst"
+  },
+  {
+   "id": "az_5937772796",
+   "title": "Machine Learning Engineer",
+   "company": "Kaliper Technologies Pvt Ltd",
+   "location": "Uttar Pradesh, India, India",
+   "type": "",
+   "posted": "2026-10-22",
+   "description": "Senior Machine Learning Engineer (MSc. / PhD) Location: Global — fully remote Employment: Independent contractor Work commitment: Approximately 15 hours per week Compensation: $60–$120 per hour, output-based About the Opportunity Contribute to an AI research and technology initiative advancing next-generation AI models and agents. Work includes developing technical evaluations, improving model performance, and building reliable training and inference workflows. Role Overview Develop, implement,…",
+   "apply_url": "https://www.adzuna.in/details/5937772796?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "machine learning engineer"
   },
   {
    "id": "az_5934108529",
@@ -181,6 +229,18 @@
    "apply_url": "https://www.adzuna.in/details/5929772178?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "python developer"
+  },
+  {
+   "id": "az_5930111028",
+   "title": "Data Engineer, IN Data Engineering & Analytics",
+   "company": "Amazon",
+   "location": "Bangalore, Karnataka, India",
+   "type": "",
+   "posted": "2026-10-16",
+   "description": "Description Amazon IN Platform Development team is looking to hire a rock star Data/BI Engineer to build for pan Amazon India businesses. Amazon India is at the core of hustle @ Amazon WW today and the team is charted with democratizing data access for the entire marketplace & add productivity. That translates to owning the processing of every Amazon India transaction, for which the team is organized to have dedicated business owners & processes for each focus area. The Data Engineer will play …",
+   "apply_url": "https://www.adzuna.in/details/5930111028?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data engineer"
   },
   {
    "id": "az_5927952356",
@@ -361,18 +421,6 @@
    "apply_url": "https://www.adzuna.in/details/5912750335?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data analyst"
-  },
-  {
-   "id": "az_5912846934",
-   "title": "Data Engineer",
-   "company": "VDart Software Services Pvt. Ltd.",
-   "location": "Richmond Town, Bangalore, India",
-   "type": "",
-   "posted": "2026-10-05",
-   "description": "Data Engineer Location- Across NTT Shift- 12 to 9 pm Must have data bricks and pyspark exp Work mode- 3 days WFO weekly Minimum 6 years of experience in the following: Experience as Data Engineer in Azure Big Data Environment Experience in developing data pipelines using pyspark Programming experience in Python and SQL Experience in working with SSMS and SQL database Expertise to Implementing Data warehousing Solution Hands-on experience in Azure stack (Azure Data Lake Storage, Azure Databricks…",
-   "apply_url": "https://www.adzuna.in/details/5912846934?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "data engineer"
   },
   {
    "id": "az_5907820999",
@@ -563,30 +611,6 @@
    "posted": "2026-09-12",
    "description": "Role: Data Engineer with Gen AI Loc:Chennai and Bangalore About the Role We are looking for a passionate Data Engineer with 5 years of experience in designing, developing, and maintaining scalable data platforms and ETL/ELT pipelines. The ideal candidate should possess strong expertise in Python, SQL, cloud data services, and modern data engineering frameworks. You will play a key role in building reliable, high-performance data solutions that support analytics, reporting, and AI/ML initiatives…",
    "apply_url": "https://www.adzuna.in/details/5880151523?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "data engineer"
-  },
-  {
-   "id": "az_5878058526",
-   "title": "MLOPS Engineer",
-   "company": "Cognizant",
-   "location": "Chennai, Tamil Nadu, India",
-   "type": "",
-   "posted": "2026-09-10",
-   "description": "Role: MLOPS Engineer Location: Pan India Experience: 6 to 15 Years Notice Period : Immediate to 90 days Mode of Interview : In-Person Key words -Skillset AWS SageMaker, Azure ML Studio, GCP Vertex AI PySpark, Azure Databricks MLFlow, KubeFlow, AirFlow, Github Actions, AWS CodePipeline Kubernetes, AKS, Terraform, Fast API Responsibilities Model Deployment, Model Monitoring, Model Retraining Deployment pipeline, Inference pipeline, Monitoring pipeline, Retraining pipeline Drift Detection, …",
-   "apply_url": "https://www.adzuna.in/details/5878058526?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "mlops engineer"
-  },
-  {
-   "id": "az_5877829060",
-   "title": "Data Engineer",
-   "company": "Venxr",
-   "location": "Pune, Maharashtra, India",
-   "type": "permanent",
-   "posted": "2026-09-10",
-   "description": "About the Role: We are looking for a highly skilled Data Engineer with a strong foundation in Power BI, SQL, Python , and Big Data ecosystems to help design, build, and optimize end-to-end data solutions. The ideal candidate is passionate about solving complex data problems, transforming raw data into actionable insights, and contributing to data-driven decision-making across the organization. Key Responsibilities: Data Modelling & Visualization Build scalable and high-quality data models in Po…",
-   "apply_url": "https://www.adzuna.in/details/5877829060?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data engineer"
   }
