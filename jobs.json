@@ -1,7 +1,19 @@
 {
- "updated_at": "2026-10-27T01:38:19+00:00",
- "count": 51,
+ "updated_at": "2026-10-28T01:50:14+00:00",
+ "count": 50,
  "jobs": [
+  {
+   "id": "az_5942785601",
+   "title": "Python Developer",
+   "company": "VE3",
+   "location": "Yerwada, Pune, India",
+   "type": "permanent",
+   "posted": "2026-10-27",
+   "description": "Job Title : Python Developer Location : Pune, Maharashtra, India Position Type : Full-time Experience Level : 5 years Role Overview: We are seeking a motivated Senior Python Developer to join our dynamic team. The ideal candidate will have 5-8 years of experience in developing scalable applications and be proficient in Python. You will work on creating, enhancing, and maintaining innovative software solutions while collaborating with cross-functional teams to deliver exceptional results. Guidin…",
+   "apply_url": "https://www.adzuna.in/details/5942785601?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "python developer"
+  },
   {
    "id": "az_5940785140",
    "title": "Data Engineer",
@@ -589,30 +601,6 @@
    "apply_url": "https://www.adzuna.in/details/5886288934?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "mlops engineer"
-  },
-  {
-   "id": "az_5880858980",
-   "title": "MLOps Engineer",
-   "company": "Team Geek Solutions",
-   "location": "Hyderabad, Telangana, India",
-   "type": "",
-   "posted": "2026-09-12",
-   "description": "Job Title : MLOps Engineer Mode: Hybrid Experience : 4 to 7 Years Location : Hyderabad (Priority)/Bengaluru locations only Notice Period : Immediate Joiner Job Summary: We are looking for a skilled and proactive ML Engineer with strong expertise in Python, Databricks, and Machine Learning model development. The ideal candidate should be proficient in building scalable data pipelines and deploying ML models, with a working knowledge of MLOps principles and tooling. This role offers an opportunit…",
-   "apply_url": "https://www.adzuna.in/details/5880858980?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "mlops engineer"
-  },
-  {
-   "id": "az_5880151523",
-   "title": "Data Engineer",
-   "company": "BSRI Solutions Pvt Ltd",
-   "location": "Ekkaduthangal, Chennai, India",
-   "type": "permanent",
-   "posted": "2026-09-12",
-   "description": "Role: Data Engineer with Gen AI Loc:Chennai and Bangalore About the Role We are looking for a passionate Data Engineer with 5 years of experience in designing, developing, and maintaining scalable data platforms and ETL/ELT pipelines. The ideal candidate should possess strong expertise in Python, SQL, cloud data services, and modern data engineering frameworks. You will play a key role in building reliable, high-performance data solutions that support analytics, reporting, and AI/ML initiatives…",
-   "apply_url": "https://www.adzuna.in/details/5880151523?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "data engineer"
   }
  ]
 }
