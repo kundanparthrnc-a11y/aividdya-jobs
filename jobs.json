@@ -1,7 +1,19 @@
 {
- "updated_at": "2026-10-28T01:50:14+00:00",
- "count": 50,
+ "updated_at": "2026-10-29T01:51:06+00:00",
+ "count": 53,
  "jobs": [
+  {
+   "id": "az_5944689225",
+   "title": "Python Developer",
+   "company": "QuoreTex Technologies Pvt. Lmt.",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-10-28",
+   "description": "We are looking for a motivated Python Developer to join our development team. The ideal candidate should have a strong understanding of Python programming, backend development, REST APIs, and databases. The candidate will be responsible for developing, testing, debugging, and maintaining scalable backend applications. Requirements Strong knowledge of Python fundamentals, including data types, functions, loops, exception handling, and comprehensions. Understanding of OOP concepts and basic data …",
+   "apply_url": "https://www.adzuna.in/details/5944689225?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "python developer"
+  },
   {
    "id": "az_5942785601",
    "title": "Python Developer",
@@ -13,6 +25,18 @@
    "apply_url": "https://www.adzuna.in/details/5942785601?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "python developer"
+  },
+  {
+   "id": "az_5943481253",
+   "title": "Sr. Specialist, Data Engineering",
+   "company": "MSD",
+   "location": "Hyderabad, Telangana, India",
+   "type": "",
+   "posted": "2026-10-27",
+   "description": "This job is with MSD, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description The Opportunity Based in Hyderabad, join a global healthcare biopharma company and be part of a 130- year legacy of success backed by ethical integrity, forward momentum, and an inspiring mission to achieve new milestones in global healthcare. Be part of an organisation driven by digital technology and d…",
+   "apply_url": "https://www.adzuna.in/land/ad/5943481253?se=5PJJMjvT8RGpb5ATKhfplw&utm_medium=api&utm_source=76e676fd&v=0E7A5F510CAE639EDD133A2A2C55B18D6892E621",
+   "source": "Adzuna",
+   "category": "data scientist"
   },
   {
    "id": "az_5940785140",
@@ -85,6 +109,18 @@
    "apply_url": "https://www.adzuna.in/details/5939602303?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "machine learning engineer"
+  },
+  {
+   "id": "az_5939914825",
+   "title": "Python Developer",
+   "company": "viraaj hr solutions",
+   "location": "Bangalore, Karnataka, India",
+   "type": "permanent",
+   "posted": "2026-10-24",
+   "description": "About the Opportunity A dynamic and fast-paced tech solutions provider operating across enterprise software, SaaS platforms, and digital transformation projects, we build scalable Python-driven applications for clients in fintech, healthtech, and logistics. Our developers work in agile squads to deliver clean, testable, and high-performance code that powers mission-critical products for global markets. Role & Responsibilities Design, develop, and maintain Python-based backend services, APIs, an…",
+   "apply_url": "https://www.adzuna.in/details/5939914825?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "python developer"
   },
   {
    "id": "az_5938283355",
@@ -227,18 +263,6 @@
    "posted": "2026-10-16",
    "description": "About the Opportunity A fast-growing technology consultancy in the enterprise software and digital transformation space, we build scalable, secure, and high-performance Python applications for global clients across fintech, SaaS, and logistics. Our engineers work directly with product teams to ship clean, testable, and maintainable code — leveraging modern Python frameworks, cloud-native patterns, and DevOps tooling to deliver business value at speed. Role & Responsibilities Design, develop, an…",
    "apply_url": "https://www.adzuna.in/details/5929772271?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "python developer"
-  },
-  {
-   "id": "az_5929772178",
-   "title": "Python Developer",
-   "company": "viraaj hr solutions",
-   "location": "Bangalore, Karnataka, India",
-   "type": "permanent",
-   "posted": "2026-10-16",
-   "description": "About the Opportunity A dynamic technology services firm operating across enterprise digital transformation and custom software development for global clients. We build scalable, secure, and maintainable Python-based applications that drive automation, data intelligence, and workflow efficiency for mid-market and enterprise customers across BFSI, Logistics, and Retail sectors. Role & Responsibilities Design, develop, and maintain backend services and APIs using Python (Django/Flask) to support …",
-   "apply_url": "https://www.adzuna.in/details/5929772178?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "python developer"
   },
@@ -481,6 +505,18 @@
    "apply_url": "https://www.adzuna.in/details/5904146923?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "python developer"
+  },
+  {
+   "id": "az_5903790470",
+   "title": "Generative AI Engineer",
+   "company": "Delphie Consulting services",
+   "location": "Chennai, Tamil Nadu, India",
+   "type": "",
+   "posted": "2026-09-30",
+   "description": "Hiring: Generative AI Specialist – Junior / Senior Location: Chennai | Work From Office Shift: 11 AM – 8 PM Experience: 4–6 years (Junior) / 6–8 years (Senior) Requirements Hands-on experience in GenAI/LLM solution development At least 1–2 live GenAI project implementations Minimum 2 years of ML/DL experience Experience building chatbots, knowledge-search or NLP solutions AWS deployment experience is a plus. Key Skills Generative AI, LLMs – OpenAI, Gemini, Claude, Llama, Mistral RAG, AI Agents,…",
+   "apply_url": "https://www.adzuna.in/details/5903790470?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "generative ai engineer"
   },
   {
    "id": "az_5902287163",
