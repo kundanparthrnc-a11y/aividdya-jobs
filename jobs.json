@@ -1,7 +1,19 @@
 {
- "updated_at": "2026-10-30T01:52:11+00:00",
- "count": 54,
+ "updated_at": "2026-10-31T01:50:54+00:00",
+ "count": 57,
  "jobs": [
+  {
+   "id": "az_5945946124",
+   "title": "Sr Manager, Data Analyst (Contract)",
+   "company": "Standard Chartered Bank",
+   "location": "Bangalore, Karnataka, India",
+   "type": "contract",
+   "posted": "2026-10-29",
+   "description": "This job is with Standard Chartered Bank, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Summary The role is responsible for strengthening the data, automation and control framework supporting CIB Credit Risk reporting, with a focus on Financial Sponsors and Private Credit. The role holder will work closely with reporting, data, technology and change teams to improve data sourcing, d…",
+   "apply_url": "https://www.adzuna.in/land/ad/5945946124?se=HPvlgM3U8RGRQOLR_vdAhg&utm_medium=api&utm_source=76e676fd&v=648AA23E1DDD31A17B702E46C9934FD306EA9522",
+   "source": "Adzuna",
+   "category": "data analyst"
+  },
   {
    "id": "az_5944689225",
    "title": "Python Developer",
@@ -13,6 +25,18 @@
    "apply_url": "https://www.adzuna.in/details/5944689225?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "python developer"
+  },
+  {
+   "id": "az_5944424061",
+   "title": "MLOps Engineer",
+   "company": "Roninfotech Services",
+   "location": "Maharashtra, India, India",
+   "type": "",
+   "posted": "2026-10-28",
+   "description": "Roninfotech Services is seeking an experienced MLOps Engineer for a high-impact, client-facing role. You will deploy, monitor, and maintain machine learning models at scale, collaborating closely with data science and engineering teams. Key Responsibilities Deploy machine learning models, including customer churn and predictive models, in high-scale production environments. Design, build, and maintain CI/CD pipelines tailored to machine learning workflows. Implement data and concept drift detec…",
+   "apply_url": "https://www.adzuna.in/details/5944424061?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "mlops engineer"
   },
   {
    "id": "az_5942785601",
@@ -169,6 +193,18 @@
    "apply_url": "https://www.adzuna.in/details/5937772796?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "machine learning engineer"
+  },
+  {
+   "id": "az_5934869953",
+   "title": "Generative AI Engineering Intern — Venxr",
+   "company": "Venxr",
+   "location": "Pune, Maharashtra, India",
+   "type": "contract",
+   "posted": "2026-10-20",
+   "description": "About Venxr Venxr is building AdsGPT, a conversational AI platform that enables brands to plan, execute, and optimise advertising campaigns through natural language. We're looking for a curious and hands-on Generative AI Engineering Intern who wants to go beyond basic prompt engineering and learn how to build real-world applications powered by Large Language Models (LLMs). If you've experimented with LangChain, LangGraph, MCP, AI agents, or memory systems and enjoy figuring out how things work …",
+   "apply_url": "https://www.adzuna.in/details/5934869953?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "generative ai engineer"
   },
   {
    "id": "az_5934108529",
