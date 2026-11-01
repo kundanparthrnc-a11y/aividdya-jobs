@@ -1,7 +1,55 @@
 {
- "updated_at": "2026-10-31T01:50:54+00:00",
- "count": 57,
+ "updated_at": "2026-11-01T01:55:20+00:00",
+ "count": 60,
  "jobs": [
+  {
+   "id": "az_5947942656",
+   "title": "MLOps Engineer",
+   "company": "TalentOne HR Consulting LLP",
+   "location": "Pune, Maharashtra, India",
+   "type": "",
+   "posted": "2026-10-31",
+   "description": "Greetings! Hiring For Large Product Based Company! Role- Mlops Engineer Experience- 8-12 years Location- Pune, Nagpur JD- 8-10 years of experience in DevOps, MLOps, Data Engineering, Software Engineering or Site Reliability Engineering Strong understanding of cloud infrastructure and experience working with at least one major cloud provider, preferably Azure Proficiency in at least one objected-oriented programming language, preferably python with hands-on experience in ml frameworks like Tenso…",
+   "apply_url": "https://www.adzuna.in/details/5947942656?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "mlops engineer"
+  },
+  {
+   "id": "az_5947794539",
+   "title": "Specialist, Data Engineering",
+   "company": "MSD",
+   "location": "Hyderabad, Telangana, India",
+   "type": "",
+   "posted": "2026-10-31",
+   "description": "This job is with MSD, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description The Opportunity: Based in Hyderabad, join a global healthcare biopharma company and be part of a 130- year legacy of success backed by ethical integrity, forward momentum, and an inspiring mission to achieve new milestones in global healthcare. Be part of an organization driven by digital technology and …",
+   "apply_url": "https://www.adzuna.in/land/ad/5947794539?se=kGdTSpfV8RGRQOLR_vdAhg&utm_medium=api&utm_source=76e676fd&v=8F964BD3DAC4C48E34D50BFB5E8E3CF5BD012BDD",
+   "source": "Adzuna",
+   "category": "data engineer"
+  },
+  {
+   "id": "az_5947460298",
+   "title": "Data Engineer",
+   "company": "Ezspace",
+   "location": "Kerala, India, India",
+   "type": "permanent",
+   "posted": "2026-10-31",
+   "description": "Our client, is looking for an experienced Data Engineer to design, develop, and maintain scalable data solutions, build efficient data pipelines, manage data integration processes, and ensure data quality and performance. Job Description RESPONSIBILITIES • Pipelines & Ingestion: Independently build database, file, and API ingestion into ADLS Gen2 and Azure Databricks; implement incremental loads, change data capture where appropriate, and safe reprocessing. • Transformations & Modeling: Develop…",
+   "apply_url": "https://www.adzuna.in/details/5947460298?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data engineer"
+  },
+  {
+   "id": "az_5947202749",
+   "title": "Data Engineer",
+   "company": "Vrinda International",
+   "location": "India, India",
+   "type": "contract",
+   "posted": "2026-10-30",
+   "description": "Data Engineer Summary We are seeking an experienced Data Engineer to architect, build, and maintain scalable data infrastructure within the IT Services sector. In this pivotal role, you will drive the design of robust data warehousing solutions and ensure seamless data modeling to support critical business analytics. Your expertise will be essential in managing cloud-native data pipelines, overseeing high-quality data migration strategies, and optimizing large-scale processing workflows. This p…",
+   "apply_url": "https://www.adzuna.in/details/5947202749?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data engineer"
+  },
   {
    "id": "az_5945946124",
    "title": "Sr Manager, Data Analyst (Contract)",
@@ -195,6 +243,18 @@
    "category": "machine learning engineer"
   },
   {
+   "id": "az_5936723818",
+   "title": "Data Analyst",
+   "company": "Khan Academy India",
+   "location": "Nauroji Nagar, South West Delhi, India",
+   "type": "contract",
+   "posted": "2026-10-21",
+   "description": "This is a remote position. ABOUT KHAN ACADEMY Khan Academy is a fast-paced, nonprofit startup on a mission to provide a free, world-class education for anyone, anywhere. We already reach millions of students every month and are growing rapidly. We’re building a library of world-class instructional and practice resources that empowers learners. Whether they’re studying matrices, mitosis, or multivariable calculus, we want to offer students the resources to realize that they can learn anything. A…",
+   "apply_url": "https://www.adzuna.in/details/5936723818?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data analyst"
+  },
+  {
    "id": "az_5934869953",
    "title": "Generative AI Engineering Intern — Venxr",
    "company": "Venxr",
@@ -253,18 +313,6 @@
    "apply_url": "https://www.adzuna.in/details/5931144372?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data analyst"
-  },
-  {
-   "id": "az_5931146795",
-   "title": "DATA ENGINEER",
-   "company": "Vrinda International",
-   "location": "Delhi, India, India",
-   "type": "permanent",
-   "posted": "2026-10-17",
-   "description": "Role Overview We are seeking a highly skilled Data Engineer to join our IT Services division. In this pivotal role, you will be responsible for architecting, building, and maintaining robust data infrastructure that empowers our organization to leverage its data assets effectively. You will play a critical part in ensuring data accuracy, accessibility, and efficiency across our cloud environments, directly supporting strategic decision-making and operational excellence. Key Responsibilities Des…",
-   "apply_url": "https://www.adzuna.in/details/5931146795?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "data engineer"
   },
   {
    "id": "az_5929351063",
@@ -387,6 +435,18 @@
    "category": "machine learning engineer"
   },
   {
+   "id": "az_5920915143",
+   "title": "Lead Software Engineer (Data Engineer)",
+   "company": "S&P Global",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-10-09",
+   "description": "This job is with S&P Global, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About the Role: Grade Level (for internal use): 10 S&P Dow Jones Indices The Role: Lead Software Engineer (Data Engineer) The Team: We are looking for a junior Data Engineer to join our offshore team in India. This role is focused on supporting data onboarding, pipeline support, and basic platform activities. You…",
+   "apply_url": "https://www.adzuna.in/land/ad/5920915143?se=kGdTSpfV8RGRQOLR_vdAhg&utm_medium=api&utm_source=76e676fd&v=29CDE02A401B8097A13010C8EFDBC26F04310897",
+   "source": "Adzuna",
+   "category": "data engineer"
+  },
+  {
    "id": "az_5918133861",
    "title": "Data Analyst",
    "company": "GreedyGame",
@@ -505,18 +565,6 @@
    "apply_url": "https://www.adzuna.in/details/5912750335?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data analyst"
-  },
-  {
-   "id": "az_5907820999",
-   "title": "MLOps Engineer",
-   "company": "TalentOne HR Consulting LLP",
-   "location": "Pune, Maharashtra, India",
-   "type": "",
-   "posted": "2026-10-02",
-   "description": "Greetings! Hiring For Large Product Based Company! Role- Mlops Engineer Experience- 8-12 years Location- Pune, Nagpur JD- 8-10 years of experience in DevOps, MLOps, Data Engineering, Software Engineering or Site Reliability Engineering Strong understanding of cloud infrastructure and experience working with at least one major cloud provider, preferably Azure Proficiency in at least one objected-oriented programming language, preferably python with hands-on experience in ml frameworks like Tenso…",
-   "apply_url": "https://www.adzuna.in/details/5907820999?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "mlops engineer"
   },
   {
    "id": "az_5906993981",
@@ -673,18 +721,6 @@
    "apply_url": "https://www.adzuna.in/land/ad/5887061470?se=Cu-0ULjN8RG9GurDUKxpjA&utm_medium=api&utm_source=76e676fd&v=1CB4BE6A694B4A8D376CCD9EF18F7F02ECB9B055",
    "source": "Adzuna",
    "category": "data scientist"
-  },
-  {
-   "id": "az_5886288934",
-   "title": "MLOps Engineer",
-   "company": "Fusemachines",
-   "location": "Pune, Maharashtra, India",
-   "type": "",
-   "posted": "2026-09-16",
-   "description": "About Fusemachines Fusemachines is a leading AI strategy, talent, and education services provider. Founded by Sameer Maskey Ph.D., Adjunct Associate Professor at Columbia University, Fusemachines has a core mission of democratizing AI. With a presence in 4 countries (Nepal, the United States, Canada, and the Dominican Republic) and more than 450 full-time employees, Fusemachines brings global AI expertise to transform companies worldwide. Founded in 2013, Fusemachines is a global provider of en…",
-   "apply_url": "https://www.adzuna.in/details/5886288934?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "mlops engineer"
   }
  ]
 }
