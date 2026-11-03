@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-02T01:56:13+00:00",
- "count": 63,
+ "updated_at": "2026-11-03T01:54:26+00:00",
+ "count": 68,
  "jobs": [
   {
    "id": "az_5948620093",
@@ -58,7 +58,7 @@
    "type": "",
    "posted": "2026-10-31",
    "description": "This job is with MSD, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description The Opportunity: Based in Hyderabad, join a global healthcare biopharma company and be part of a 130- year legacy of success backed by ethical integrity, forward momentum, and an inspiring mission to achieve new milestones in global healthcare. Be part of an organization driven by digital technology and …",
-   "apply_url": "https://www.adzuna.in/land/ad/5947794539?se=kGdTSpfV8RGRQOLR_vdAhg&utm_medium=api&utm_source=76e676fd&v=8F964BD3DAC4C48E34D50BFB5E8E3CF5BD012BDD",
+   "apply_url": "https://www.adzuna.in/land/ad/5947794539?se=PjP5fSnX8RGbLoEdDZpMAw&utm_medium=api&utm_source=76e676fd&v=8F964BD3DAC4C48E34D50BFB5E8E3CF5BD012BDD",
    "source": "Adzuna",
    "category": "data engineer"
   },
@@ -99,6 +99,30 @@
    "category": "machine learning engineer"
   },
   {
+   "id": "az_5946279642",
+   "title": "Data Engineer",
+   "company": "Accenture",
+   "location": "Bangalore, Karnataka, India",
+   "type": "",
+   "posted": "2026-10-30",
+   "description": "This job is with Accenture, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Project Role : Data Engineer Project Role Description : Design, develop and maintain data solutions for data generation, collection, and processing. Create data pipelines, ensure data quality, and implement ETL (extract, transform and load) processes to migrate and deploy data across systems. Must have skills : Ja…",
+   "apply_url": "https://www.adzuna.in/land/ad/5946279642?se=PjP5fSnX8RGbLoEdDZpMAw&utm_medium=api&utm_source=76e676fd&v=8D477357ADD8A573CBD0A1CD2B94704EF8144BF0",
+   "source": "Adzuna",
+   "category": "data engineer"
+  },
+  {
+   "id": "az_5946908854",
+   "title": "Associate Director, Data Engineering",
+   "company": "MSD",
+   "location": "Hyderabad, Telangana, India",
+   "type": "",
+   "posted": "2026-10-30",
+   "description": "This job is with MSD, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description The Opportunity Based in Hyderabad, join a global healthcare biopharma company and be part of a 130- year legacy of success backed by ethical integrity, forward momentum, and an inspiring mission to achieve new milestones in global healthcare. Be part of an organisation driven by digital technology and d…",
+   "apply_url": "https://www.adzuna.in/land/ad/5946908854?se=PjP5fSnX8RGbLoEdDZpMAw&utm_medium=api&utm_source=76e676fd&v=16F0D0B3D9105F8042AB093D8674063AAFF2E217",
+   "source": "Adzuna",
+   "category": "data engineer"
+  },
+  {
    "id": "az_5945946124",
    "title": "Sr Manager, Data Analyst (Contract)",
    "company": "Standard Chartered Bank",
@@ -109,6 +133,30 @@
    "apply_url": "https://www.adzuna.in/land/ad/5945946124?se=HPvlgM3U8RGRQOLR_vdAhg&utm_medium=api&utm_source=76e676fd&v=648AA23E1DDD31A17B702E46C9934FD306EA9522",
    "source": "Adzuna",
    "category": "data analyst"
+  },
+  {
+   "id": "az_5945946127",
+   "title": "Senior Specialist, Data Engineering",
+   "company": "MSD",
+   "location": "Hyderabad, Telangana, India",
+   "type": "",
+   "posted": "2026-10-29",
+   "description": "This job is with MSD, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description The Opportunity Based in Hyderabad, join a global healthcare biopharma company and be part of a 130- year legacy of success backed by ethical integrity, forward momentum, and an inspiring mission to achieve new milestones in global healthcare. Be part of an organisation driven by digital technology and d…",
+   "apply_url": "https://www.adzuna.in/land/ad/5945946127?se=PjP5fSnX8RGbLoEdDZpMAw&utm_medium=api&utm_source=76e676fd&v=FB7BE5A2BD4B9F1463EEE5D83CC3631A5EBEB5C6",
+   "source": "Adzuna",
+   "category": "data engineer"
+  },
+  {
+   "id": "az_5944893582",
+   "title": "DATA SCIENTIST",
+   "company": "TE Connectivity",
+   "location": "Bangalore, Karnataka, India",
+   "type": "",
+   "posted": "2026-10-29",
+   "description": "This job is with TE Connectivity, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At TE, you will unleash your potential working with people from diverse backgrounds and industries to create a safer, sustainable and more connected world. Job Overview We are looking for a Data Scientist who can solve business problems using Machine Learning, Statistical Modeling, and Generative AI. The rol…",
+   "apply_url": "https://www.adzuna.in/land/ad/5944893582?se=dG2MfynX8RGbLoEdDZpMAw&utm_medium=api&utm_source=76e676fd&v=DB4B3FD093FA6E709BF1B36D438E555528FB40DF",
+   "source": "Adzuna",
+   "category": "data scientist"
   },
   {
    "id": "az_5944689225",
@@ -142,7 +190,7 @@
    "type": "",
    "posted": "2026-10-28",
    "description": "This job is with MSD, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description Specialist, Cloud Data Engineering The Opportunity Based in Hyderabad, join a global healthcare biopharma company and be part of a 130- year legacy of success backed by ethical integrity, forward momentum, and an inspiring mission to achieve new milestones in global healthcare. Be part of an organisation…",
-   "apply_url": "https://www.adzuna.in/land/ad/5944379004?se=aO-Pk2DW8RGRQOLR_vdAhg&utm_medium=api&utm_source=76e676fd&v=9CF235FE161E0E168153141D2DF7BA0147BF0D92",
+   "apply_url": "https://www.adzuna.in/land/ad/5944379004?se=PjP5fSnX8RGbLoEdDZpMAw&utm_medium=api&utm_source=76e676fd&v=9CF235FE161E0E168153141D2DF7BA0147BF0D92",
    "source": "Adzuna",
    "category": "data engineer"
   },
@@ -167,18 +215,6 @@
    "posted": "2026-10-27",
    "description": "This job is with MSD, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description The Opportunity Based in Hyderabad, join a global healthcare biopharma company and be part of a 130- year legacy of success backed by ethical integrity, forward momentum, and an inspiring mission to achieve new milestones in global healthcare. Be part of an organisation driven by digital technology and d…",
    "apply_url": "https://www.adzuna.in/land/ad/5943481253?se=aO-Pk2DW8RGRQOLR_vdAhg&utm_medium=api&utm_source=76e676fd&v=0E7A5F510CAE639EDD133A2A2C55B18D6892E621",
-   "source": "Adzuna",
-   "category": "data engineer"
-  },
-  {
-   "id": "az_5943481270",
-   "title": "Senior Specialist, Data Engineering",
-   "company": "MSD",
-   "location": "Hyderabad, Telangana, India",
-   "type": "",
-   "posted": "2026-10-27",
-   "description": "This job is with MSD, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description The Opportunity Based in Hyderabad, join a global healthcare biopharma company and be part of a 130- year legacy of success backed by ethical integrity, forward momentum, and an inspiring mission to achieve new milestones in global healthcare. Be part of an organisation driven by digital technology and d…",
-   "apply_url": "https://www.adzuna.in/land/ad/5943481270?se=aO-Pk2DW8RGRQOLR_vdAhg&utm_medium=api&utm_source=76e676fd&v=EF8B9ABCDA7D966B8B81FD12D5192A03DAD97B7C",
    "source": "Adzuna",
    "category": "data engineer"
   },
@@ -214,9 +250,9 @@
    "type": "",
    "posted": "2026-10-24",
    "description": "This job is with MSCI, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Your Team Responsibilities: MSCI Data Tech - Data Science is a central team responsible for building and managing data-centric and AI-driven applications and capabilities that support all major business verticals across the firm, including ESG, Index, Analytics, and Real Estate . The team enables high-quality financial…",
-   "apply_url": "https://www.adzuna.in/land/ad/5940684066?se=aO-Pk2DW8RGRQOLR_vdAhg&utm_medium=api&utm_source=76e676fd&v=28AB25E5974358A0CE90C6B972B006B261618E95",
+   "apply_url": "https://www.adzuna.in/land/ad/5940684066?se=dG2MfynX8RGbLoEdDZpMAw&utm_medium=api&utm_source=76e676fd&v=28AB25E5974358A0CE90C6B972B006B261618E95",
    "source": "Adzuna",
-   "category": "data engineer"
+   "category": "data scientist"
   },
   {
    "id": "az_5939602451",
@@ -265,6 +301,18 @@
    "apply_url": "https://www.adzuna.in/details/5939914825?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "python developer"
+  },
+  {
+   "id": "az_5940146671",
+   "title": "Data Science & AI Specialist - Industrial Analytics",
+   "company": "ABB",
+   "location": "Bangalore, Karnataka, India",
+   "type": "",
+   "posted": "2026-10-24",
+   "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This Position reports to: Digital Solution Engineering Manager What we believe in ABB's Process …",
+   "apply_url": "https://www.adzuna.in/land/ad/5940146671?se=dG2MfynX8RGbLoEdDZpMAw&utm_medium=api&utm_source=76e676fd&v=A9F5E4813C969BED821DB9F640F84A644E503DB4",
+   "source": "Adzuna",
+   "category": "data scientist"
   },
   {
    "id": "az_5938283355",
@@ -471,6 +519,30 @@
    "category": "data engineer"
   },
   {
+   "id": "az_5928333312",
+   "title": "SR. DATA SCIENTIST",
+   "company": "TE Connectivity",
+   "location": "Bangalore, Karnataka, India",
+   "type": "",
+   "posted": "2026-10-15",
+   "description": "This job is with TE Connectivity, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At TE, you will unleash your potential working with people from diverse backgrounds and industries to create a safer, sustainable and more connected world. Job Overview We are looking for a Senior Data Scientist with a strong foundation in data science, machine learning, and AI who has a proven record of del…",
+   "apply_url": "https://www.adzuna.in/land/ad/5928333312?se=dG2MfynX8RGbLoEdDZpMAw&utm_medium=api&utm_source=76e676fd&v=E2CBF971624384F115B46EF6A2065A11191D3550",
+   "source": "Adzuna",
+   "category": "data scientist"
+  },
+  {
+   "id": "az_5926970030",
+   "title": "LEAD DATA SCIENCE (ML Ops)",
+   "company": "TE Connectivity",
+   "location": "Bangalore, Karnataka, India",
+   "type": "",
+   "posted": "2026-10-14",
+   "description": "This job is with TE Connectivity, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At TE, you will unleash your potential working with people from diverse backgrounds and industries to create a safer, sustainable and more connected world. Job Overview Solves complex problems and help stakeholders make data- driven decisions by leveraging quantitative methods, such as machine learning. It o…",
+   "apply_url": "https://www.adzuna.in/land/ad/5926970030?se=dG2MfynX8RGbLoEdDZpMAw&utm_medium=api&utm_source=76e676fd&v=71EF113A4B6542089CB4D7659328AB82D16A383F",
+   "source": "Adzuna",
+   "category": "data scientist"
+  },
+  {
    "id": "az_5923576234",
    "title": "MLOps Engineer",
    "company": "Creuto",
@@ -610,7 +682,7 @@
    "type": "",
    "posted": "2026-10-07",
    "description": "This job is with Elsevier, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Senior Data Scientist I Are you interested in working with data and analytics to solve problems? Are you interested in bringing your Gen AI, Machine Learning and NLP expertise to projects? About our Team:- Data Science Global Operations team works with a focus on Generative AI, Machine Learning, Natural Language Pr…",
-   "apply_url": "https://www.adzuna.in/land/ad/5915322889?se=Cu-0ULjN8RG9GurDUKxpjA&utm_medium=api&utm_source=76e676fd&v=6F23B5A17A49C2AC5306AD2ED9B209E07CA1A50F",
+   "apply_url": "https://www.adzuna.in/land/ad/5915322889?se=dG2MfynX8RGbLoEdDZpMAw&utm_medium=api&utm_source=76e676fd&v=6F23B5A17A49C2AC5306AD2ED9B209E07CA1A50F",
    "source": "Adzuna",
    "category": "data scientist"
   },
@@ -745,18 +817,6 @@
    "apply_url": "https://www.adzuna.in/details/5890338762?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data engineer"
-  },
-  {
-   "id": "az_5889544216",
-   "title": "Machine Learning Engineer",
-   "company": "MedTourEasy",
-   "location": "India, India",
-   "type": "",
-   "posted": "2026-09-18",
-   "description": "Company Overview MedTourEasy, a global healthcare company, provides you the informational resources needed to evaluate your global options. MedTourEasy provides analytical solutions to our partner healthcare providers globally. Job Title Machine Learning Engineer Job Location Bengaluru, India Gurgaon, India New Delhi, India Noida, India International Years of Experience 0-5 years Job Description As a Machine Learning Engineer at Medtoureasy, you will be at the forefront of developing and implem…",
-   "apply_url": "https://www.adzuna.in/details/5889544216?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "machine learning engineer"
   }
  ]
 }
