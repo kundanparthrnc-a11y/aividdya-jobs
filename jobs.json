@@ -1,7 +1,19 @@
 {
- "updated_at": "2026-11-03T01:54:26+00:00",
- "count": 68,
+ "updated_at": "2026-11-04T01:53:16+00:00",
+ "count": 72,
  "jobs": [
+  {
+   "id": "az_5949925780",
+   "title": "ABB Talent Pool(Unpause - Returnee program) - Technology and Data Science",
+   "company": "ABB",
+   "location": "Bangalore, Karnataka, India",
+   "type": "",
+   "posted": "2026-11-02",
+   "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries outrun - leaner and cleaner. Here, progress is an expectation - for you, your team, and the world. As a global market leader, we'll give you what you need to make it happen. It won't always be easy, growing takes grit. But at ABB, you'll never run alone. Run what runs the world. This Position …",
+   "apply_url": "https://www.adzuna.in/land/ad/5949925780?se=hDb0fvLX8RGtDZBIyhV77A&utm_medium=api&utm_source=76e676fd&v=A0F405794B06649963A3DB834583D47F868B0008",
+   "source": "Adzuna",
+   "category": "data scientist"
+  },
   {
    "id": "az_5948620093",
    "title": "Team Lead - MLOps / AI DevOps (AWS)",
@@ -75,6 +87,18 @@
    "category": "data engineer"
   },
   {
+   "id": "az_5947460424",
+   "title": "Python Developer",
+   "company": "Heads Up For Tails",
+   "location": "India, India",
+   "type": "permanent",
+   "posted": "2026-10-31",
+   "description": "About the Role We’re looking for a curious and driven Python Developer to join our fast-growing team at Heads Up For Tails. You’ll play a key role in building and evolving our in-house ERP systems that power everyday business operations from supply chain to customer experience. In this role, you’ll work across the full development lifecycle designing, building, and improving backend systems, while also exploring opportunities to bring in automation and AI-driven enhancements. You’ll collaborate…",
+   "apply_url": "https://www.adzuna.in/details/5947460424?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "python developer"
+  },
+  {
    "id": "az_5947202749",
    "title": "Data Engineer",
    "company": "Vrinda International",
@@ -121,6 +145,18 @@
    "apply_url": "https://www.adzuna.in/land/ad/5946908854?se=PjP5fSnX8RGbLoEdDZpMAw&utm_medium=api&utm_source=76e676fd&v=16F0D0B3D9105F8042AB093D8674063AAFF2E217",
    "source": "Adzuna",
    "category": "data engineer"
+  },
+  {
+   "id": "az_5946908877",
+   "title": "Senior Associate, Central Monitor, Data Surveillance, Clinical Data Sciences",
+   "company": "Pfizer",
+   "location": "Chennai, Tamil Nadu, India",
+   "type": "",
+   "posted": "2026-10-30",
+   "description": "This job is with Pfizer, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. The Senior Associate, Central Monitor is responsible for ensuring the completeness, quality and integrity of the subject data in the clinical trial database under Risk Based Monitoring (RBM) mode. The areas of activity include but are not limited to: developing Risk-Based Monitoring system for applicable studies, ens…",
+   "apply_url": "https://www.adzuna.in/land/ad/5946908877?se=hDb0fvLX8RGtDZBIyhV77A&utm_medium=api&utm_source=76e676fd&v=BAA93470685D5748A9BD1F5795686114E788F40C",
+   "source": "Adzuna",
+   "category": "data scientist"
   },
   {
    "id": "az_5945946124",
@@ -219,6 +255,18 @@
    "category": "data engineer"
   },
   {
+   "id": "az_5943481248",
+   "title": "Senior Associate, Data Manager, Clinical Data Sciences",
+   "company": "Pfizer",
+   "location": "Mumbai, Maharashtra, India",
+   "type": "",
+   "posted": "2026-10-27",
+   "description": "This job is with Pfizer, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Use Your Power for Purpose Our mission is straightforward: support healthcare decisions that ensure the safe and effective use of medications. Whether you are developing the framework to ensure our evidence is scientifically robust, providing unbiased and medically essential expertise, or exploring ways to bridge dat…",
+   "apply_url": "https://www.adzuna.in/land/ad/5943481248?se=hDb0fvLX8RGtDZBIyhV77A&utm_medium=api&utm_source=76e676fd&v=F7542908429CC2774546AB2A5DF575F393F38379",
+   "source": "Adzuna",
+   "category": "data scientist"
+  },
+  {
    "id": "az_5940785140",
    "title": "Data Engineer",
    "company": "VDart Software Services Pvt. Ltd.",
@@ -310,7 +358,7 @@
    "type": "",
    "posted": "2026-10-24",
    "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries run leaner and cleaner-and every person here makes that happen. You'll be empowered to lead, supported to grow, and proud of the impact we create together. Join us and help run what runs the world. This Position reports to: Digital Solution Engineering Manager What we believe in ABB's Process …",
-   "apply_url": "https://www.adzuna.in/land/ad/5940146671?se=dG2MfynX8RGbLoEdDZpMAw&utm_medium=api&utm_source=76e676fd&v=A9F5E4813C969BED821DB9F640F84A644E503DB4",
+   "apply_url": "https://www.adzuna.in/land/ad/5940146671?se=hDb0fvLX8RGtDZBIyhV77A&utm_medium=api&utm_source=76e676fd&v=A9F5E4813C969BED821DB9F640F84A644E503DB4",
    "source": "Adzuna",
    "category": "data scientist"
   },
@@ -435,6 +483,18 @@
    "category": "data analyst"
   },
   {
+   "id": "az_5931624206",
+   "title": "Talent Pool -FP&A- Data Scientist / Analytics Specialist / Data & AI Specialist",
+   "company": "ABB",
+   "location": "Bangalore, Karnataka, India",
+   "type": "",
+   "posted": "2026-10-17",
+   "description": "This job is with ABB, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At ABB, we help industries outrun - leaner and cleaner. Here, progress is an expectation - for you, your team, and the world. As a global market leader, we'll give you what you need to make it happen. It won't always be easy, growing takes grit. But at ABB, you'll never run alone. Run what runs the world. This Position …",
+   "apply_url": "https://www.adzuna.in/land/ad/5931624206?se=hDb0fvLX8RGtDZBIyhV77A&utm_medium=api&utm_source=76e676fd&v=210CEBDE7195021B094F8E89162B6EE2782F0BDC",
+   "source": "Adzuna",
+   "category": "data scientist"
+  },
+  {
    "id": "az_5929351063",
    "title": "Data Analyst",
    "company": "Acme Services Private Limited",
@@ -526,7 +586,7 @@
    "type": "",
    "posted": "2026-10-15",
    "description": "This job is with TE Connectivity, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At TE, you will unleash your potential working with people from diverse backgrounds and industries to create a safer, sustainable and more connected world. Job Overview We are looking for a Senior Data Scientist with a strong foundation in data science, machine learning, and AI who has a proven record of del…",
-   "apply_url": "https://www.adzuna.in/land/ad/5928333312?se=dG2MfynX8RGbLoEdDZpMAw&utm_medium=api&utm_source=76e676fd&v=E2CBF971624384F115B46EF6A2065A11191D3550",
+   "apply_url": "https://www.adzuna.in/land/ad/5928333312?se=hDb0fvLX8RGtDZBIyhV77A&utm_medium=api&utm_source=76e676fd&v=E2CBF971624384F115B46EF6A2065A11191D3550",
    "source": "Adzuna",
    "category": "data scientist"
   },
@@ -538,7 +598,7 @@
    "type": "",
    "posted": "2026-10-14",
    "description": "This job is with TE Connectivity, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At TE, you will unleash your potential working with people from diverse backgrounds and industries to create a safer, sustainable and more connected world. Job Overview Solves complex problems and help stakeholders make data- driven decisions by leveraging quantitative methods, such as machine learning. It o…",
-   "apply_url": "https://www.adzuna.in/land/ad/5926970030?se=dG2MfynX8RGbLoEdDZpMAw&utm_medium=api&utm_source=76e676fd&v=71EF113A4B6542089CB4D7659328AB82D16A383F",
+   "apply_url": "https://www.adzuna.in/land/ad/5926970030?se=hDb0fvLX8RGtDZBIyhV77A&utm_medium=api&utm_source=76e676fd&v=71EF113A4B6542089CB4D7659328AB82D16A383F",
    "source": "Adzuna",
    "category": "data scientist"
   },
@@ -682,7 +742,7 @@
    "type": "",
    "posted": "2026-10-07",
    "description": "This job is with Elsevier, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Senior Data Scientist I Are you interested in working with data and analytics to solve problems? Are you interested in bringing your Gen AI, Machine Learning and NLP expertise to projects? About our Team:- Data Science Global Operations team works with a focus on Generative AI, Machine Learning, Natural Language Pr…",
-   "apply_url": "https://www.adzuna.in/land/ad/5915322889?se=dG2MfynX8RGbLoEdDZpMAw&utm_medium=api&utm_source=76e676fd&v=6F23B5A17A49C2AC5306AD2ED9B209E07CA1A50F",
+   "apply_url": "https://www.adzuna.in/land/ad/5915322889?se=hDb0fvLX8RGtDZBIyhV77A&utm_medium=api&utm_source=76e676fd&v=6F23B5A17A49C2AC5306AD2ED9B209E07CA1A50F",
    "source": "Adzuna",
    "category": "data scientist"
   },
@@ -803,18 +863,6 @@
    "posted": "2026-09-23",
    "description": "Help design, build and continuously improve the clients online platform. Research, suggest and implement new technology solutions following best practices/standards. Take responsibility for the resiliency and availability of different products. Be a productive member of the team. Requirements Data Engineer with strong expertise in Data Platforms responsible for developing and supporting applications using Big Data technologies, including API development. Solid foundation in application developm…",
    "apply_url": "https://www.adzuna.in/details/5894769742?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "data engineer"
-  },
-  {
-   "id": "az_5890338762",
-   "title": "Data Engineer",
-   "company": "Coretek Services",
-   "location": "India, India",
-   "type": "",
-   "posted": "2026-09-19",
-   "description": "Coretek is looking for a Data Engineer to build and operate the pipelines and data models that the rest of the business runs on. You'll own ingestion from source systems through to curated, well-documented datasets that analysts, data scientists, and application teams depend on. This is a hands-on engineering role: you'll write production code, design schemas, and be accountable for the reliability and cost of what you ship. Responsibilities Design, build, and maintain batch and streaming data …",
-   "apply_url": "https://www.adzuna.in/details/5890338762?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data engineer"
   }
