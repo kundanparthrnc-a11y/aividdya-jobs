@@ -1,7 +1,67 @@
 {
- "updated_at": "2026-11-05T02:02:01+00:00",
- "count": 73,
+ "updated_at": "2026-11-06T02:02:33+00:00",
+ "count": 79,
  "jobs": [
+  {
+   "id": "az_5954657965",
+   "title": "Tech Lead - Python Developer",
+   "company": "Aristocrat",
+   "location": "Noida, Ghaziabad, India",
+   "type": "",
+   "posted": "2026-11-06",
+   "description": "This job is with Aristocrat, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Aristocrat, excellence isn't just a goal; it's our way of life. Our dedication to innovation and creativity propels us to deliver flawless gaming experiences every day. As a Tech Lead - Python Developer, you will play a pivotal role in driving transformation and crafting the future of our enterprise through mo…",
+   "apply_url": "https://www.adzuna.in/land/ad/5954657965?se=WJ4bHYbZ8RGfyN3H3ce7sQ&utm_medium=api&utm_source=76e676fd&v=EAA0DF69F2CF4B08F3B1306AA7AFCC65D4BD967A",
+   "source": "Adzuna",
+   "category": "python developer"
+  },
+  {
+   "id": "az_5953363518",
+   "title": "Generative AI Engineer",
+   "company": "Evnek Technologies Pvt Ltd",
+   "location": "Immedihalli, Bangalore, India",
+   "type": "contract",
+   "posted": "2026-11-05",
+   "description": "Job Opening: Junior Generative AI Engineer Job Location: Bengaluru Experience: 0–1 Year Notice Period: Immediate Joiner About the Role We are looking for a passionate and enthusiastic AI Engineer with 0–1 year of experience to join our growing AI team. The ideal candidate should have a strong foundation in Python, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Generative AI technologies. Fresh graduates with hands-on AI/GenAI projects or relevant internship experience a…",
+   "apply_url": "https://www.adzuna.in/details/5953363518?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "generative ai engineer"
+  },
+  {
+   "id": "az_5952154196",
+   "title": "Data Analyst / Senior Data Analyst",
+   "company": "Rhythm Innovations",
+   "location": "Bhubaneswar, Khordha, India",
+   "type": "permanent",
+   "posted": "2026-11-04",
+   "description": "LOCATION Bhubaneswar, Odisha EXPERIENCE 3–5 years EMPLOYMENT TYPE Full-time About the Role Our platform delivers data-driven insights to customers. We are looking for a statistically strong analyst to improve the quality of those insights and help customers get real value from them. You will work on large, real-world datasets, apply sound statistical methods to separate meaningful patterns from noise, and turn your findings into clear recommendations for customers and internal teams. The role s…",
+   "apply_url": "https://www.adzuna.in/details/5952154196?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data analyst"
+  },
+  {
+   "id": "az_5952726495",
+   "title": "Data Analyst",
+   "company": "Eurofins GSC IT DC",
+   "location": "Bangalore, Karnataka, India",
+   "type": "",
+   "posted": "2026-11-04",
+   "description": "Job Description About Eurofins IT Solutions India Pvt Ltd Eurofins IT Solutions India Pvt Ltd (A CMMI Level 3 Company) is a 100% full owned subsidiary of Eurofins. This young captive centre located in Bangalore was established in 2012 to be the largest IT Solutions group within Eurofins to cater to all the internal IT business needs. The primary focus of the IT Solutions group is to develop the next generation LIMS (Lab Information Management System), customer portals, e-commerce solutions, ERP…",
+   "apply_url": "https://www.adzuna.in/details/5952726495?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data analyst"
+  },
+  {
+   "id": "az_5951720189",
+   "title": "Data Analyst",
+   "company": "H&M",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-11-03",
+   "description": "Job Description WHAT YOU’LL DO ​ As a Data Analyst, you are responsible for transforming data into actionable insights that support business decisions and drive performance. You collect, analyse, and interpret complex datasets, develop reports and dashboards, and identify trends, patterns, and opportunities for improvement. Working closely with stakeholders across functions, you ensure data accuracy. Collect, clean, validate, and analyse data from multiple sources. Use Python or R for data anal…",
+   "apply_url": "https://www.adzuna.in/details/5951720189?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data analyst"
+  },
   {
    "id": "az_5949925780",
    "title": "ABB Talent Pool(Unpause - Returnee program) - Technology and Data Science",
@@ -291,6 +351,18 @@
    "category": "data engineer"
   },
   {
+   "id": "az_5940851886",
+   "title": "DATA ANALYST",
+   "company": "Training Basket",
+   "location": "Ator Nagla, Ghaziabad, India",
+   "type": "permanent",
+   "posted": "2026-10-25",
+   "description": "Collect, clean, organize, and analyze data from multiple sources. Create interactive dashboards and reports using Google Looker Studio. Manage datasets, perform calculations, and analyze trends using Google Sheets and MS Excel. Use AI tools such as Claude to assist with data analysis, reporting, and workflow optimization. Automate repetitive data tasks and improve reporting efficiency using AI-powered tools. Perform data validation and maintain data accuracy and consistency. Integrate data from…",
+   "apply_url": "https://www.adzuna.in/details/5940851886?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data analyst"
+  },
+  {
    "id": "az_5940684055",
    "title": "Senior Financial Data Analyst",
    "company": "Moody's",
@@ -483,18 +555,6 @@
    "category": "mlops engineer"
   },
   {
-   "id": "az_5931144372",
-   "title": "Data Analyst",
-   "company": "H&M",
-   "location": "India, India",
-   "type": "",
-   "posted": "2026-10-17",
-   "description": "Job Description WHAT YOU’LL DO ​ As a Data Analyst, you are responsible for transforming data into actionable insights that support business decisions and drive performance. You collect, analyse, and interpret complex datasets, develop reports and dashboards, and identify trends, patterns, and opportunities for improvement. Working closely with stakeholders across functions, you ensure data accuracy. Collect, clean, validate, and analyse data from multiple sources. Use Python or R for data anal…",
-   "apply_url": "https://www.adzuna.in/details/5931144372?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "data analyst"
-  },
-  {
    "id": "az_5931624206",
    "title": "Talent Pool -FP&A- Data Scientist / Analytics Specialist / Data & AI Specialist",
    "company": "ABB",
@@ -601,6 +661,18 @@
    "apply_url": "https://www.adzuna.in/land/ad/5928333312?se=avK_4bzY8RGFQ8wD9aNPrg&utm_medium=api&utm_source=76e676fd&v=E2CBF971624384F115B46EF6A2065A11191D3550",
    "source": "Adzuna",
    "category": "data scientist"
+  },
+  {
+   "id": "az_5929333996",
+   "title": "Data Analyst",
+   "company": "Innovaccer Analytics",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-10-15",
+   "description": "About the Role At Innovaccer we are looking for a Data Analyst to help our customers explore their healthcare data, understand how to improve the health of the population and bring down the cost of healthcare. A day in the life Design and build data pipelines that transform data from a large number of healthcare data systems while complying with respective standards and industry best practices. Adhere to, document and improve best practices regarding data quality. Work towards creating easy-to-…",
+   "apply_url": "https://www.adzuna.in/details/5929333996?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data analyst"
   },
   {
    "id": "az_5926970030",
