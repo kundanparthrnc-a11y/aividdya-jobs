@@ -1,7 +1,55 @@
 {
- "updated_at": "2026-11-07T01:52:29+00:00",
- "count": 79,
+ "updated_at": "2026-11-08T01:56:40+00:00",
+ "count": 82,
  "jobs": [
+  {
+   "id": "az_5956304619",
+   "title": "MLOps Engineer",
+   "company": "Infosys Limited",
+   "location": "Bangalore, Karnataka, India",
+   "type": "",
+   "posted": "2026-11-07",
+   "description": "Job Description: We are seeking an experienced MLOps Engineer with strong expertise in deploying managing and optimizing machine learning workloads in production environments This role is primarily focused on MLOps 60 supported by AWS Cloud 25 and DevOps 15 capabilities The ideal candidate will have hands on ownership of the end to end ML lifecycle including model training deployment monitoring automation performance optimization and retraining Strong experience with AWS services CI CD pipeline…",
+   "apply_url": "https://www.adzuna.in/details/5956304619?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "mlops engineer"
+  },
+  {
+   "id": "az_5956258928",
+   "title": "Sr Data Research Analyst II",
+   "company": "Elsevier",
+   "location": "India, India",
+   "type": "permanent",
+   "posted": "2026-11-07",
+   "description": "This job is with Elsevier, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Senior Data Research Analyst II As a Data Discovery and Enrichment Expert II, you will operate at the intersection of data, AI, and domain knowledge. You will take ownership of complex data initiatives end-to-end, contribute to shaping how the team leverages AI and data science methods, and work closely with produc…",
+   "apply_url": "https://www.adzuna.in/land/ad/5956258928?se=0puloRfb8RGJ_5m-0JeM1g&utm_medium=api&utm_source=76e676fd&v=3A31663A18EF2EBFD834EDDEB605149F6F7E0E85",
+   "source": "Adzuna",
+   "category": "data analyst"
+  },
+  {
+   "id": "az_5956258951",
+   "title": "SENIOR DATA ENGINEER",
+   "company": "TE Connectivity",
+   "location": "Bangalore, Karnataka, India",
+   "type": "",
+   "posted": "2026-11-07",
+   "description": "This job is with TE Connectivity, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At TE, you will unleash your potential working with people from diverse backgrounds and industries to create a safer, sustainable and more connected world. Job Overview We are seeking a skilled AI Data Engineer to design, develop, and maintain scalable, secure, and production-ready data solutions that enable…",
+   "apply_url": "https://www.adzuna.in/land/ad/5956258951?se=oihgoxfb8RGMj86c16zqBQ&utm_medium=api&utm_source=76e676fd&v=AA63141F15E613FFDC40B35CB7C20B40132CCC24",
+   "source": "Adzuna",
+   "category": "data engineer"
+  },
+  {
+   "id": "az_5955971955",
+   "title": "Data Engineer",
+   "company": "Innova software Services Inc",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-11-07",
+   "description": "Job Description: Data Engineer Cloud Migration Role Overview We are looking for a skilled Data Engineer with 3 years of experience in data engineering and cloud-based data migration. The ideal candidate should have strong hands-on experience with Google BigQuery, Python, SQL, and Airflow/Cloud Composer , along with the ability to develop and support data pipelines, execute migration activities, and provide production support. Key Responsibilities 1. Data Engineering & Cloud Migration Design, de…",
+   "apply_url": "https://www.adzuna.in/details/5955971955?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data engineer"
+  },
   {
    "id": "az_5954657965",
    "title": "Tech Lead - Python Developer",
@@ -73,6 +121,18 @@
    "apply_url": "https://www.adzuna.in/land/ad/5949925780?se=hDb0fvLX8RGtDZBIyhV77A&utm_medium=api&utm_source=76e676fd&v=A0F405794B06649963A3DB834583D47F868B0008",
    "source": "Adzuna",
    "category": "data scientist"
+  },
+  {
+   "id": "az_5950768619",
+   "title": "Data Engineer",
+   "company": "Next-Link",
+   "location": "Immedihalli, Bangalore, India",
+   "type": "contract",
+   "posted": "2026-11-02",
+   "description": "Job Overview Nextlink is seeking for a Data Engineer with strong expertise in Palantir Foundry, Python, and PySpark to design, develop, and maintain scalable data engineering solutions. The ideal candidate will have hands-on experience with Foundry Ontology, data pipelines, modular applications, and end-to-end data solution implementation, along with a solid understanding of data engineering principles and distributed computing. Key Responsibilities 1. Palantir Foundry Platform Expertise Develo…",
+   "apply_url": "https://www.adzuna.in/details/5950768619?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data engineer"
   },
   {
    "id": "az_5948620093",
@@ -238,7 +298,7 @@
    "type": "contract",
    "posted": "2026-10-29",
    "description": "This job is with Standard Chartered Bank, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Summary The role is responsible for strengthening the data, automation and control framework supporting CIB Credit Risk reporting, with a focus on Financial Sponsors and Private Credit. The role holder will work closely with reporting, data, technology and change teams to improve data sourcing, d…",
-   "apply_url": "https://www.adzuna.in/land/ad/5945946124?se=tkwY4k3a8RGD5Iv7NVeOtg&utm_medium=api&utm_source=76e676fd&v=648AA23E1DDD31A17B702E46C9934FD306EA9522",
+   "apply_url": "https://www.adzuna.in/land/ad/5945946124?se=0puloRfb8RGJ_5m-0JeM1g&utm_medium=api&utm_source=76e676fd&v=648AA23E1DDD31A17B702E46C9934FD306EA9522",
    "source": "Adzuna",
    "category": "data analyst"
   },
@@ -855,18 +915,6 @@
    "category": "data analyst"
   },
   {
-   "id": "az_5906993981",
-   "title": "MLOps Engineer",
-   "company": "Infosys Limited",
-   "location": "Bangalore, Karnataka, India",
-   "type": "",
-   "posted": "2026-10-02",
-   "description": "Job Description: We are seeking an experienced MLOps Engineer with strong expertise in deploying managing and optimizing machine learning workloads in production environments This role is primarily focused on MLOps 60 supported by AWS Cloud 25 and DevOps 15 capabilities The ideal candidate will have hands on ownership of the end to end ML lifecycle including model training deployment monitoring automation performance optimization and retraining Strong experience with AWS services CI CD pipeline…",
-   "apply_url": "https://www.adzuna.in/details/5906993981?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "mlops engineer"
-  },
-  {
    "id": "az_5903295413",
    "title": "Python Developer",
    "company": "Blumetra",
@@ -937,18 +985,6 @@
    "apply_url": "https://www.adzuna.in/details/5902729907?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "generative ai engineer"
-  },
-  {
-   "id": "az_5894769742",
-   "title": "Data Engineer",
-   "company": "GeekSoft Consulting",
-   "location": "Richmond Town, Bangalore, India",
-   "type": "permanent",
-   "posted": "2026-09-23",
-   "description": "Help design, build and continuously improve the clients online platform. Research, suggest and implement new technology solutions following best practices/standards. Take responsibility for the resiliency and availability of different products. Be a productive member of the team. Requirements Data Engineer with strong expertise in Data Platforms responsible for developing and supporting applications using Big Data technologies, including API development. Solid foundation in application developm…",
-   "apply_url": "https://www.adzuna.in/details/5894769742?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "data engineer"
   }
  ]
 }
