@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-10T01:57:05+00:00",
- "count": 82,
+ "updated_at": "2026-11-11T01:55:32+00:00",
+ "count": 83,
  "jobs": [
   {
    "id": "az_5956304619",
@@ -59,6 +59,30 @@
    "posted": "2026-11-06",
    "description": "This job is with Aristocrat, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Aristocrat, excellence isn't just a goal; it's our way of life. Our dedication to innovation and creativity propels us to deliver flawless gaming experiences every day. As a Tech Lead - Python Developer, you will play a pivotal role in driving transformation and crafting the future of our enterprise through mo…",
    "apply_url": "https://www.adzuna.in/land/ad/5954657965?se=WJ4bHYbZ8RGfyN3H3ce7sQ&utm_medium=api&utm_source=76e676fd&v=EAA0DF69F2CF4B08F3B1306AA7AFCC65D4BD967A",
+   "source": "Adzuna",
+   "category": "python developer"
+  },
+  {
+   "id": "az_5954643628",
+   "title": "Python Developer",
+   "company": "TalentOla",
+   "location": "Srinivasapuram, Hyderabad, India",
+   "type": "",
+   "posted": "2026-11-06",
+   "description": "Job Description Must have 6 to 12 years of exp. We are seeking a highly skilled and motivated Backend Developer to join our engineering team. The ideal candidate will be proficient in modern Python development practices, API design, and database management. You will be responsible for designing, developing, and maintaining scalable and robust backend services. Must Have Skills: Python, Flask, FastAPI, DJango, SQL, SQLAlchemy, Alembic (schema versioning), Pytest, UV tooling (Python package manag…",
+   "apply_url": "https://www.adzuna.in/details/5954643628?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "python developer"
+  },
+  {
+   "id": "az_5955047273",
+   "title": "Python Developer / Sr. Python Developer",
+   "company": "CES Usa Inc",
+   "location": "Hyderabad, Telangana, India",
+   "type": "",
+   "posted": "2026-11-06",
+   "description": "We are looking for a skilled Python Developer to join our growing team. The ideal candidate will have strong programming fundamentals, hands-on experience with Python, data structures, and RDBMS, and a solid grasp of REST APIs, parallel programming, and test-driven development. This role offers the opportunity to work on high-impact projects in a collaborative, Agile environment. Mandatory Skills: 5 to 8 years of experience with Python, and well-versed with RDBMS (SQL Server preferred). Good ex…",
+   "apply_url": "https://www.adzuna.in/details/5955047273?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "python developer"
   },
@@ -505,18 +529,6 @@
    "apply_url": "https://www.adzuna.in/land/ad/5940146671?se=hDb0fvLX8RGtDZBIyhV77A&utm_medium=api&utm_source=76e676fd&v=A9F5E4813C969BED821DB9F640F84A644E503DB4",
    "source": "Adzuna",
    "category": "data scientist"
-  },
-  {
-   "id": "az_5938283355",
-   "title": "Python Developer",
-   "company": "TalentOla",
-   "location": "India, India",
-   "type": "",
-   "posted": "2026-10-23",
-   "description": "As a Python Engineer at GlobalLogic, you will be a key player in our Digital Engineering team. You will design, develop, and maintain high-performance, scalable backend services while ensuring seamless integration with modern frontend frameworks. You will work on global projects that require a \"Chip-to-Cloud\" mindset, helping our clients solve complex business challenges through intelligent software products. Key Responsibilities Architecture & Development: Design and build robust, scalable bac…",
-   "apply_url": "https://www.adzuna.in/details/5938283355?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "python developer"
   },
   {
    "id": "az_5939556539",
