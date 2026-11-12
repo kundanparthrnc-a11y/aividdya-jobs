@@ -1,7 +1,19 @@
 {
- "updated_at": "2026-11-11T01:55:32+00:00",
- "count": 83,
+ "updated_at": "2026-11-12T08:03:28+00:00",
+ "count": 84,
  "jobs": [
+  {
+   "id": "az_5960996978",
+   "title": "Generative AI Engineer",
+   "company": "Luxoft India Llp",
+   "location": "Chennai, Tamil Nadu, India",
+   "type": "",
+   "posted": "2026-11-11",
+   "description": "We are looking for a highly skilled Senior Generative AI Engineer with strong hands-on experience in Python, Large Language Models (LLMs), Transformers, Retrieval-Augmented Generation (RAG), and AI/ML technologies. The candidate will be responsible for designing, developing, fine-tuning, and deploying enterprise-grade Generative AI solutions such as intelligent chatbots, document Q&A systems, report generators, code assistants, and summarization tools. The role requires strong experience in LLM…",
+   "apply_url": "https://www.adzuna.in/details/5960996978?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "generative ai engineer"
+  },
   {
    "id": "az_5956304619",
    "title": "MLOps Engineer",
