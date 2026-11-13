@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-12T08:03:28+00:00",
- "count": 84,
+ "updated_at": "2026-11-13T07:41:34+00:00",
+ "count": 85,
  "jobs": [
   {
    "id": "az_5960996978",
@@ -755,6 +755,18 @@
    "posted": "2026-10-15",
    "description": "About the Role At Innovaccer we are looking for a Data Analyst to help our customers explore their healthcare data, understand how to improve the health of the population and bring down the cost of healthcare. A day in the life Design and build data pipelines that transform data from a large number of healthcare data systems while complying with respective standards and industry best practices. Adhere to, document and improve best practices regarding data quality. Work towards creating easy-to-…",
    "apply_url": "https://www.adzuna.in/details/5929333996?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data analyst"
+  },
+  {
+   "id": "az_5928736587",
+   "title": "Data Analyst",
+   "company": "FE fundinfo",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-10-15",
+   "description": "Join a global leader in investment fund data and technology where your analytical skills will directly contribute to delivering high-quality data solutions to clients across the financial services industry. This is an exciting opportunity to build your expertise in mutual fund data analysis while working with a diverse global team. You'll gain exposure to international asset management companies, develop valuable financial market knowledge, and play a key role in ensuring the accuracy and integ…",
+   "apply_url": "https://www.adzuna.in/details/5928736587?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data analyst"
   },
