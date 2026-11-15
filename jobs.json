@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-14T07:28:07+00:00",
- "count": 83,
+ "updated_at": "2026-11-15T07:40:24+00:00",
+ "count": 81,
  "jobs": [
   {
    "id": "az_5964968875",
@@ -13,6 +13,30 @@
    "apply_url": "https://www.adzuna.in/land/ad/5964968875?se=9EBj7Pzf8RGrZoYQCBdvLw&utm_medium=api&utm_source=76e676fd&v=90464C21BA9BB5E786416C46643EE76EC6D39410",
    "source": "Adzuna",
    "category": "data analyst"
+  },
+  {
+   "id": "az_5966140249",
+   "title": "Data Engineer",
+   "company": "WTW",
+   "location": "Kolkata, West Bengal, India",
+   "type": "",
+   "posted": "2026-11-14",
+   "description": "This job is with WTW, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Description About The Company: WTW (NASDAQ: WTW) is in the business of people, risk and capital. With roots dating to 1828, our company has over 45,000 colleagues serving more than 140 countries and markets. Our values – client focus, teamwork, integrity, respect and excellence – underlie all that we do, including how w…",
+   "apply_url": "https://www.adzuna.in/land/ad/5966140249?se=lkeD0Mfg8RGNl561rfNY_A&utm_medium=api&utm_source=76e676fd&v=3142F6F66475C4FC71F0F6690AAAEDABC8E408CF",
+   "source": "Adzuna",
+   "category": "data engineer"
+  },
+  {
+   "id": "az_5962910774",
+   "title": "Data Engineer",
+   "company": "Weekday AI",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-11-12",
+   "description": "This role is for one of Weekday’s clients Salary range: Rs 1000000 - Rs 2000000 (ie INR 10 - 20 LPA) Min Experience: 7 years Location: Bengaluru, Karnataka, India JobType: full-time Requirements  7-8 years of experience in Data Engineering, with strong hands-on expertise in Python, SQL, and ETL/ELT processes.  Experience with Azure Data Factory (ADF), Azure Databricks, and Azure Data Lake Storage (ADLS).  Strong understanding of data warehousing, data modelling, database architecture, and da…",
+   "apply_url": "https://www.adzuna.in/details/5962910774?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data engineer"
   },
   {
    "id": "az_5960996978",
@@ -430,7 +454,7 @@
    "type": "",
    "posted": "2026-10-27",
    "description": "This job is with MSD, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Job Description The Opportunity Based in Hyderabad, join a global healthcare biopharma company and be part of a 130- year legacy of success backed by ethical integrity, forward momentum, and an inspiring mission to achieve new milestones in global healthcare. Be part of an organisation driven by digital technology and d…",
-   "apply_url": "https://www.adzuna.in/land/ad/5943481253?se=aO-Pk2DW8RGRQOLR_vdAhg&utm_medium=api&utm_source=76e676fd&v=0E7A5F510CAE639EDD133A2A2C55B18D6892E621",
+   "apply_url": "https://www.adzuna.in/land/ad/5943481253?se=lkeD0Mfg8RGNl561rfNY_A&utm_medium=api&utm_source=76e676fd&v=0E7A5F510CAE639EDD133A2A2C55B18D6892E621",
    "source": "Adzuna",
    "category": "data engineer"
   },
@@ -949,54 +973,6 @@
    "apply_url": "https://www.adzuna.in/details/5912750335?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data analyst"
-  },
-  {
-   "id": "az_5903295413",
-   "title": "Python Developer",
-   "company": "Blumetra",
-   "location": "Hyderabad, Telangana, India",
-   "type": "permanent",
-   "posted": "2026-09-30",
-   "description": "Job Summary We are looking for an experienced Python Developer with 5–7 years of hands-on experience in designing, developing, testing, and maintaining scalable applications. The ideal candidate should have strong expertise in Python, backend development, REST APIs, databases, and cloud technologies, with a focus on writing clean, maintainable, and high-quality code. Key Responsibilities Design, develop, test, and maintain scalable backend applications using Python. Develop and integrate RESTfu…",
-   "apply_url": "https://www.adzuna.in/details/5903295413?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "python developer"
-  },
-  {
-   "id": "az_5904146923",
-   "title": "PYTHON DEVELOPER",
-   "company": "Vrinda International",
-   "location": "India, India",
-   "type": "contract",
-   "posted": "2026-09-30",
-   "description": "Python Developer Summary We are seeking an experienced Python Developer to join our IT Services team, where you will play a pivotal role in designing, building, and maintaining robust software solutions. This position demands a professional with deep expertise in the banking and financial services sector, capable of leveraging advanced data engineering principles to drive business value. The ideal candidate will be responsible for optimizing system performance, resolving complex technical chall…",
-   "apply_url": "https://www.adzuna.in/details/5904146923?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "python developer"
-  },
-  {
-   "id": "az_5903790470",
-   "title": "Generative AI Engineer",
-   "company": "Delphie Consulting services",
-   "location": "Chennai, Tamil Nadu, India",
-   "type": "",
-   "posted": "2026-09-30",
-   "description": "Hiring: Generative AI Specialist – Junior / Senior Location: Chennai | Work From Office Shift: 11 AM – 8 PM Experience: 4–6 years (Junior) / 6–8 years (Senior) Requirements Hands-on experience in GenAI/LLM solution development At least 1–2 live GenAI project implementations Minimum 2 years of ML/DL experience Experience building chatbots, knowledge-search or NLP solutions AWS deployment experience is a plus. Key Skills Generative AI, LLMs – OpenAI, Gemini, Claude, Llama, Mistral RAG, AI Agents,…",
-   "apply_url": "https://www.adzuna.in/details/5903790470?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "generative ai engineer"
-  },
-  {
-   "id": "az_5903326416",
-   "title": "Generative AI Engineer",
-   "company": "ascendion",
-   "location": "India, India",
-   "type": "",
-   "posted": "2026-09-30",
-   "description": "Position Details: Job Title: GenAI Engineer Experience : 5 to 8 years Location Options: Pune, Gurgaon, Noida, Bangalore , Remote Skills: A role requiring strong fundamentals, independent reasoning, and technical ownership. Generative AI Concepts Coding & Debugging Cloud Deployment expertise Soft skill and Communication Job Description Working with client stakeholders to gather requirements and translate them into AI/GenAI-based solutions. Designing, developing, and deploying Generative AI model…",
-   "apply_url": "https://www.adzuna.in/details/5903326416?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "generative ai engineer"
   }
  ]
 }
