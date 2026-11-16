@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-11-15T07:40:24+00:00",
+ "updated_at": "2026-11-16T07:45:41+00:00",
  "count": 81,
  "jobs": [
   {
@@ -22,19 +22,19 @@
    "type": "",
    "posted": "2026-11-14",
    "description": "This job is with WTW, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Description About The Company: WTW (NASDAQ: WTW) is in the business of people, risk and capital. With roots dating to 1828, our company has over 45,000 colleagues serving more than 140 countries and markets. Our values – client focus, teamwork, integrity, respect and excellence – underlie all that we do, including how w…",
-   "apply_url": "https://www.adzuna.in/land/ad/5966140249?se=lkeD0Mfg8RGNl561rfNY_A&utm_medium=api&utm_source=76e676fd&v=3142F6F66475C4FC71F0F6690AAAEDABC8E408CF",
+   "apply_url": "https://www.adzuna.in/land/ad/5966140249?se=9Cd6t5Hh8RG3UKJUaLg__w&utm_medium=api&utm_source=76e676fd&v=3142F6F66475C4FC71F0F6690AAAEDABC8E408CF",
    "source": "Adzuna",
    "category": "data engineer"
   },
   {
-   "id": "az_5962910774",
+   "id": "az_5963175024",
    "title": "Data Engineer",
-   "company": "Weekday AI",
+   "company": "Sago",
    "location": "India, India",
    "type": "",
    "posted": "2026-11-12",
-   "description": "This role is for one of Weekday’s clients Salary range: Rs 1000000 - Rs 2000000 (ie INR 10 - 20 LPA) Min Experience: 7 years Location: Bengaluru, Karnataka, India JobType: full-time Requirements  7-8 years of experience in Data Engineering, with strong hands-on expertise in Python, SQL, and ETL/ELT processes.  Experience with Azure Data Factory (ADF), Azure Databricks, and Azure Data Lake Storage (ADLS).  Strong understanding of data warehousing, data modelling, database architecture, and da…",
-   "apply_url": "https://www.adzuna.in/details/5962910774?utm_medium=api&utm_source=76e676fd",
+   "description": "We are looking for a Data Engineer with 2–5 years of experience to design, build, and maintain reliable data pipelines and analytics-ready datasets. The ideal candidate will have strong SQL and Python or PySpark skills, hands-on experience with cloud data platforms, and the ability to troubleshoot data-quality, performance, and production issues independently. Key Responsibilities · Design, develop, and maintain scalable ETL and ELT pipelines for batch and scheduled data processing. · Build and…",
+   "apply_url": "https://www.adzuna.in/details/5963175024?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data engineer"
   },
