@@ -1,7 +1,19 @@
 {
- "updated_at": "2026-11-16T07:45:41+00:00",
+ "updated_at": "2026-11-17T08:54:59+00:00",
  "count": 81,
  "jobs": [
+  {
+   "id": "az_5968049188",
+   "title": "Data Engineer",
+   "company": "Trigent Software Private Limited",
+   "location": "Richmond Town, Bangalore, India",
+   "type": "",
+   "posted": "2026-11-17",
+   "description": "We are seeking a Data Engineer proficient in SQL, Python, Snowflake, and data modeling to build and maintain robust pipelines supporting our Portfolio Management and Tracking platform. In this role, you will integrate complex portfolio and financial metrics, validate core KPIs, and support migration workflows to Sigma, with experience in Dataiku and real estate analytics serving as a strong plus. Build and maintain data pipelines and curated Snowflake datasets to support the Portfolio Managemen…",
+   "apply_url": "https://www.adzuna.in/details/5968049188?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data engineer"
+  },
   {
    "id": "az_5964968875",
    "title": "Sr. Data Research Analyst II",
@@ -157,18 +169,6 @@
    "apply_url": "https://www.adzuna.in/details/5952726495?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data analyst"
-  },
-  {
-   "id": "az_5950861685",
-   "title": "Data Engineer",
-   "company": "Trigent Software Private Limited",
-   "location": "India, India",
-   "type": "",
-   "posted": "2026-11-03",
-   "description": "We are looking for a skilled Data Engineer to design, develop, and optimize scalable data pipelines and cloud-native data solutions on Microsoft Azure. The ideal candidate should possess strong expertise in Databricks, Spark, SQL, and ETL/ELT frameworks. Experience 4-8 years of experience in Data Engineering Key Responsibilities Design and implement scalable ETL/ELT pipelines. Develop data ingestion frameworks for multiple source systems. Build and optimize Spark-based data processing workflows…",
-   "apply_url": "https://www.adzuna.in/details/5950861685?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "data engineer"
   },
   {
    "id": "az_5951720189",
