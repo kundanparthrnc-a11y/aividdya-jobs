@@ -1,7 +1,31 @@
 {
- "updated_at": "2026-11-19T08:31:57+00:00",
- "count": 84,
+ "updated_at": "2026-11-20T08:14:11+00:00",
+ "count": 86,
  "jobs": [
+  {
+   "id": "az_5972097783",
+   "title": "Python Developer",
+   "company": "Theomnihire",
+   "location": "Nungambakkam, Chennai, India",
+   "type": "contract",
+   "posted": "2026-11-20",
+   "description": "Experience: 2–4 Years Job Title: Python Developer Employment Type: Full-Time Job Summary We are looking for a skilled Python Developer with 2–4 years of experience in designing, developing, and maintaining scalable applications. The ideal candidate should have strong Python programming skills, experience with backend development, REST APIs, databases, and a good understanding of software development best practices. Requirements Key Responsibilities Design, develop, test, and maintain applicatio…",
+   "apply_url": "https://www.adzuna.in/details/5972097783?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "python developer"
+  },
+  {
+   "id": "az_5972375463",
+   "title": "Senior Generative AI Engineer",
+   "company": "Umanist Staffing LLC",
+   "location": "Pune, Maharashtra, India",
+   "type": "permanent",
+   "posted": "2026-11-20",
+   "description": "Senior Generative AI Engineer Experience: 3–10 Years Location: Pune Employment Type: Full-Time(915) Role Overview We are looking for a Senior Generative AI Engineer to build and deploy enterprise-grade AI solutions using modern Generative AI technologies. The role will involve working across LLMs, RAG, AI agents, Azure AI services and Python, with a strong focus on developing reliable solutions that can be integrated into real-world business processes. You will work closely with technical tea…",
+   "apply_url": "https://www.adzuna.in/details/5972375463?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "generative ai engineer"
+  },
   {
    "id": "az_5970787176",
    "title": "SR DEVOPS ENGINEER",
@@ -27,6 +51,18 @@
    "category": "generative ai engineer"
   },
   {
+   "id": "az_5969568911",
+   "title": "Data Analyst",
+   "company": "Eurofins GSC IT DC",
+   "location": "Bangalore, Karnataka, India",
+   "type": "",
+   "posted": "2026-11-18",
+   "description": "Job Description About Eurofins IT Solutions India Pvt Ltd Eurofins IT Solutions India Pvt Ltd (A CMMI Level 3 Company) is a 100% full owned subsidiary of Eurofins. This young captive centre located in Bangalore was established in 2012 to be the largest IT Solutions group within Eurofins to cater to all the internal IT business needs. The primary focus of the IT Solutions group is to develop the next generation LIMS (Lab Information Management System), customer portals, e-commerce solutions, ERP…",
+   "apply_url": "https://www.adzuna.in/details/5969568911?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data analyst"
+  },
+  {
    "id": "az_5968049188",
    "title": "Data Engineer",
    "company": "Trigent Software Private Limited",
@@ -37,6 +73,18 @@
    "apply_url": "https://www.adzuna.in/details/5968049188?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data engineer"
+  },
+  {
+   "id": "az_5967344033",
+   "title": "Data Analyst",
+   "company": "TerraTern Pvt Ltd",
+   "location": "Bangalore, Karnataka, India",
+   "type": "permanent",
+   "posted": "2026-11-16",
+   "description": "Data Analyst About the job Department: Technology & Product Employment Type: Full-time About TerraTern TerraTern is one of India’s fastest-growing Global Talent Mobility startups, helping individuals navigate international relocation with confidence. We deliver end-to-end visa support, job search guidance, and mobility resources designed for global aspirants. Transparency, precision, and client trust are the foundation of everything we build. Role Overview We are looking for a Data Analyst who …",
+   "apply_url": "https://www.adzuna.in/details/5967344033?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data analyst"
   },
   {
    "id": "az_5966478742",
@@ -191,18 +239,6 @@
    "posted": "2026-11-04",
    "description": "LOCATION Bhubaneswar, Odisha EXPERIENCE 3–5 years EMPLOYMENT TYPE Full-time About the Role Our platform delivers data-driven insights to customers. We are looking for a statistically strong analyst to improve the quality of those insights and help customers get real value from them. You will work on large, real-world datasets, apply sound statistical methods to separate meaningful patterns from noise, and turn your findings into clear recommendations for customers and internal teams. The role s…",
    "apply_url": "https://www.adzuna.in/details/5952154196?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "data analyst"
-  },
-  {
-   "id": "az_5952726495",
-   "title": "Data Analyst",
-   "company": "Eurofins GSC IT DC",
-   "location": "Bangalore, Karnataka, India",
-   "type": "",
-   "posted": "2026-11-04",
-   "description": "Job Description About Eurofins IT Solutions India Pvt Ltd Eurofins IT Solutions India Pvt Ltd (A CMMI Level 3 Company) is a 100% full owned subsidiary of Eurofins. This young captive centre located in Bangalore was established in 2012 to be the largest IT Solutions group within Eurofins to cater to all the internal IT business needs. The primary focus of the IT Solutions group is to develop the next generation LIMS (Lab Information Management System), customer portals, e-commerce solutions, ERP…",
-   "apply_url": "https://www.adzuna.in/details/5952726495?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data analyst"
   },
@@ -995,18 +1031,6 @@
    "posted": "2026-10-06",
    "description": "Summary:This role is responsible for supporting the organization's data management initiatives. This includes data analysis, data quality assurance, data governance, and data reporting. This role will work closely with team members to ensure data accuracy, completeness, and consistency. This role will also assist in the development and implementation of data management policies and procedures. Expectations to learn and apply industry best practices and stay up-to-date with emerging trends in da…",
    "apply_url": "https://www.adzuna.in/details/5913832201?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "data analyst"
-  },
-  {
-   "id": "az_5912750335",
-   "title": "Data Analyst",
-   "company": "Smiths Detection",
-   "location": "Bangalore, Karnataka, India",
-   "type": "",
-   "posted": "2026-10-05",
-   "description": "Job Description Duties: Power BI Development Develop interactive, user-friendly dashboards and reports in Power BI Build effective data models using DAX and Power Query Maintain version control and documentation of dashboards Maintain / Troubleshoot existing Power BI reports/dashboards and making necessary arrangements for data refresh as per required frequencies. SQL & Data Handling Write and optimize SQL queries for data extraction, transformation, and validation Perform data validation and q…",
-   "apply_url": "https://www.adzuna.in/details/5912750335?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data analyst"
   }
