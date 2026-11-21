@@ -1,7 +1,19 @@
 {
- "updated_at": "2026-11-20T08:14:11+00:00",
- "count": 86,
+ "updated_at": "2026-11-21T08:06:18+00:00",
+ "count": 84,
  "jobs": [
+  {
+   "id": "az_5973499260",
+   "title": "Data Analyst",
+   "company": "TerraTern Pvt Ltd",
+   "location": "Bangalore, Karnataka, India",
+   "type": "permanent",
+   "posted": "2026-11-21",
+   "description": "Data Analyst About the job Department: Technology & Product Employment Type: Full-time About TerraTern TerraTern is one of India’s fastest-growing Global Talent Mobility startups, helping individuals navigate international relocation with confidence. We deliver end-to-end visa support, job search guidance, and mobility resources designed for global aspirants. Transparency, precision, and client trust are the foundation of everything we build. Role Overview We are looking for a Data Analyst who …",
+   "apply_url": "https://www.adzuna.in/details/5973499260?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data analyst"
+  },
   {
    "id": "az_5972097783",
    "title": "Python Developer",
@@ -25,6 +37,30 @@
    "apply_url": "https://www.adzuna.in/details/5972375463?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "generative ai engineer"
+  },
+  {
+   "id": "az_5972928725",
+   "title": "Senior Financial Data Analyst",
+   "company": "Moody's",
+   "location": "Bangalore, Karnataka, India",
+   "type": "",
+   "posted": "2026-11-20",
+   "description": "This job is with Moody's, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Mo…",
+   "apply_url": "https://www.adzuna.in/land/ad/5972928725?se=IuzEbILl8RGK1Jozpv_WtA&utm_medium=api&utm_source=76e676fd&v=79F0FC6F994D7F4AB3A9F67337D3A5A7F9C022CC",
+   "source": "Adzuna",
+   "category": "data analyst"
+  },
+  {
+   "id": "az_5973149231",
+   "title": "Data Analyst",
+   "company": "Weekday AI",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-11-20",
+   "description": "' : - ( - ) Experience: 4 yrs Location: India As a Data Analyst, you will be instrumental in transforming complex FMCG and CPG datasets into actionable insights, driving informed pricing decisions across the organization. Leveraging your expertise in Microsoft Power BI, you will design and implement dynamic dashboards that enable stakeholders to monitor KPI trends and identify profit‑driving opportunities. Your strong data modeling skills will ensure robust data architecture, faci…",
+   "apply_url": "https://www.adzuna.in/details/5973149231?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data analyst"
   },
   {
    "id": "az_5970787176",
@@ -73,18 +109,6 @@
    "apply_url": "https://www.adzuna.in/details/5968049188?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data engineer"
-  },
-  {
-   "id": "az_5967344033",
-   "title": "Data Analyst",
-   "company": "TerraTern Pvt Ltd",
-   "location": "Bangalore, Karnataka, India",
-   "type": "permanent",
-   "posted": "2026-11-16",
-   "description": "Data Analyst About the job Department: Technology & Product Employment Type: Full-time About TerraTern TerraTern is one of India’s fastest-growing Global Talent Mobility startups, helping individuals navigate international relocation with confidence. We deliver end-to-end visa support, job search guidance, and mobility resources designed for global aspirants. Transparency, precision, and client trust are the foundation of everything we build. Role Overview We are looking for a Data Analyst who …",
-   "apply_url": "https://www.adzuna.in/details/5967344033?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "data analyst"
   },
   {
    "id": "az_5966478742",
@@ -145,18 +169,6 @@
    "apply_url": "https://www.adzuna.in/details/5960996978?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "generative ai engineer"
-  },
-  {
-   "id": "az_5956304619",
-   "title": "MLOps Engineer",
-   "company": "Infosys Limited",
-   "location": "Bangalore, Karnataka, India",
-   "type": "",
-   "posted": "2026-11-07",
-   "description": "Job Description: We are seeking an experienced MLOps Engineer with strong expertise in deploying managing and optimizing machine learning workloads in production environments This role is primarily focused on MLOps 60 supported by AWS Cloud 25 and DevOps 15 capabilities The ideal candidate will have hands on ownership of the end to end ML lifecycle including model training deployment monitoring automation performance optimization and retraining Strong experience with AWS services CI CD pipeline…",
-   "apply_url": "https://www.adzuna.in/details/5956304619?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "mlops engineer"
   },
   {
    "id": "az_5956258951",
@@ -567,18 +579,6 @@
    "category": "data analyst"
   },
   {
-   "id": "az_5940684055",
-   "title": "Senior Financial Data Analyst",
-   "company": "Moody's",
-   "location": "Bangalore, Karnataka, India",
-   "type": "",
-   "posted": "2026-10-24",
-   "description": "This job is with Moody's, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. At Moody's, we unite the brightest minds to turn today’s risks into tomorrow’s opportunities. We do this by striving to create an inclusive environment where everyone feels welcome to be who they are—with the freedom to exchange ideas, think innovatively, and listen to each other and customers in meaningful ways. Mo…",
-   "apply_url": "https://www.adzuna.in/land/ad/5940684055?se=Us3oUhPQ8RGRKI1RSTRJPA&utm_medium=api&utm_source=76e676fd&v=D21D0E8ABB497701E8ED41F5F7383287473E75BE",
-   "source": "Adzuna",
-   "category": "data analyst"
-  },
-  {
    "id": "az_5940684066",
    "title": "Senior Data Science Engineer",
    "company": "MSCI",
@@ -939,18 +939,6 @@
    "category": "data analyst"
   },
   {
-   "id": "az_5916983454",
-   "title": "Data Analyst",
-   "company": "Weekday AI",
-   "location": "India, India",
-   "type": "",
-   "posted": "2026-10-07",
-   "description": "This role is for one of Weekday’s clients Min Experience: 4 years Location: India JobType: full-time We are looking for an experienced Data Analyst with 4–8 years of experience in data analytics, business intelligence, and cloud-based data platforms. The ideal candidate will have strong hands-on expertise in GCP, BigQuery, and Power BI , along with a solid understanding of data analysis, data modelling, and modern data management practices. The role involves working with large and complex datas…",
-   "apply_url": "https://www.adzuna.in/details/5916983454?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "data analyst"
-  },
-  {
    "id": "az_5916869366",
    "title": "Machine Learning Engineer",
    "company": "Innover Systems",
@@ -1021,18 +1009,6 @@
    "apply_url": "https://www.adzuna.in/land/ad/5915322889?se=avK_4bzY8RGFQ8wD9aNPrg&utm_medium=api&utm_source=76e676fd&v=6F23B5A17A49C2AC5306AD2ED9B209E07CA1A50F",
    "source": "Adzuna",
    "category": "data scientist"
-  },
-  {
-   "id": "az_5913832201",
-   "title": "Data Analyst",
-   "company": "Pratiti Technologies Pvt. Ltd.",
-   "location": "Warje, Pune, India",
-   "type": "permanent",
-   "posted": "2026-10-06",
-   "description": "Summary:This role is responsible for supporting the organization's data management initiatives. This includes data analysis, data quality assurance, data governance, and data reporting. This role will work closely with team members to ensure data accuracy, completeness, and consistency. This role will also assist in the development and implementation of data management policies and procedures. Expectations to learn and apply industry best practices and stay up-to-date with emerging trends in da…",
-   "apply_url": "https://www.adzuna.in/details/5913832201?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "data analyst"
   }
  ]
 }
