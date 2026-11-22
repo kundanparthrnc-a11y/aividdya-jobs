@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-21T08:06:18+00:00",
- "count": 84,
+ "updated_at": "2026-11-22T07:52:34+00:00",
+ "count": 78,
  "jobs": [
   {
    "id": "az_5973499260",
@@ -99,14 +99,26 @@
    "category": "data analyst"
   },
   {
-   "id": "az_5968049188",
+   "id": "az_5968049200",
    "title": "Data Engineer",
    "company": "Trigent Software Private Limited",
    "location": "Richmond Town, Bangalore, India",
    "type": "",
    "posted": "2026-11-17",
-   "description": "We are seeking a Data Engineer proficient in SQL, Python, Snowflake, and data modeling to build and maintain robust pipelines supporting our Portfolio Management and Tracking platform. In this role, you will integrate complex portfolio and financial metrics, validate core KPIs, and support migration workflows to Sigma, with experience in Dataiku and real estate analytics serving as a strong plus. Build and maintain data pipelines and curated Snowflake datasets to support the Portfolio Managemen…",
-   "apply_url": "https://www.adzuna.in/details/5968049188?utm_medium=api&utm_source=76e676fd",
+   "description": "The candidate will serve as a Monitoring Data Pipeline Engineer, responsible for designing, building, and maintaining robust, scalable, and highly observable data pipelines that ensure reliable data flow across the enterprise. The position emphasizes end to end observability, including metrics, logs, traces, data quality checks, and pipeline performance monitoring-to enable timely diagnostics, proactive issue prevention, and overall operational excellence.Job Role Responsibilities Build and mai…",
+   "apply_url": "https://www.adzuna.in/details/5968049200?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data engineer"
+  },
+  {
+   "id": "az_5969063228",
+   "title": "Data Engineer",
+   "company": "Datamatics Technologies",
+   "location": "Bazargate, Mumbai, India",
+   "type": "",
+   "posted": "2026-11-17",
+   "description": "Location: UAE-based (Travel required) Duration: 6-month assignment Summary (Data Engineer) Timely, reliable data pipelines are what turn a platform design into business value. The Data Engineer builds and operates the pipelines that move data from source systems into the lakehouse and on to analytics and AI consumers, ensuring that the pipelines are automated, performant, secure and governed. The role works alongside the data architect, data quality engineer, business analysts and AI engineers,…",
+   "apply_url": "https://www.adzuna.in/details/5969063228?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data engineer"
   },
@@ -819,18 +831,6 @@
    "category": "data analyst"
   },
   {
-   "id": "az_5929124914",
-   "title": "Data Engineer",
-   "company": "Datamatics Technologies",
-   "location": "Bazargate, Mumbai, India",
-   "type": "",
-   "posted": "2026-10-15",
-   "description": "Job Description – Data Engineer Employment Type: Full-Time Work Location: KSA Experience Required: Hands-on experience with Spark development, Informatica integration solutions, and enterprise data platforms. Years of Experience: 5 to 10 Role Overview We are looking for a Data Engineer to build, configure, and optimize data ingestion, transformation, and consumption workloads on a modern on-premises lakehouse platform. The ideal candidate will have strong hands-on experience with Spark-based de…",
-   "apply_url": "https://www.adzuna.in/details/5929124914?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "data engineer"
-  },
-  {
    "id": "az_5928333312",
    "title": "SR. DATA SCIENTIST",
    "company": "TE Connectivity",
@@ -937,78 +937,6 @@
    "apply_url": "https://www.adzuna.in/details/5918133861?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data analyst"
-  },
-  {
-   "id": "az_5916869366",
-   "title": "Machine Learning Engineer",
-   "company": "Innover Systems",
-   "location": "Pune, Maharashtra, India",
-   "type": "permanent",
-   "posted": "2026-10-07",
-   "description": "Position: Machine Learning Engineer Job Type: Full Time, Permanent Location : Baner, Pune We are looking for a visionary Machine Learning Engineer to bridge the gap between cutting-edge research and real-world applications. In this role, you won’t just be training models; you will be architecting the visual intelligence that powers our next generation of products. You will join a high-impact team dedicated to solving complex spatial and visual problems at scale. What You’ll Do Architect & Innov…",
-   "apply_url": "https://www.adzuna.in/details/5916869366?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "machine learning engineer"
-  },
-  {
-   "id": "az_5916983421",
-   "title": "Python Developer",
-   "company": "Stafio.ai",
-   "location": "India, India",
-   "type": "",
-   "posted": "2026-10-07",
-   "description": "Stafio.ai is a forward-thinking technology company specializing in artificial intelligence solutions that drive innovation across various industries. We are currently seeking a talented and motivated Python Developer to join our dynamic team. The ideal candidate will play a critical role in designing, developing, and maintaining cutting-edge AI applications and services that power our products. This position offers an excellent opportunity to work in a collaborative environment where creativity…",
-   "apply_url": "https://www.adzuna.in/details/5916983421?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "python developer"
-  },
-  {
-   "id": "az_5914221318",
-   "title": "Python Developer",
-   "company": "Trigent Software Private Limited",
-   "location": "India, India",
-   "type": "",
-   "posted": "2026-10-07",
-   "description": "Description Python, Microservices, Deployment to EKS, Understanding on AWS, GCP basic services, MongoDB Description: We are seeking a highly skilled Python Developer with strong experience in Microservices Architecture and MongoDB to join our technology team. The ideal candidate will be responsible for designing, developing, and maintaining scalable, high performance applications while ensuring code quality and system reliability. Key Responsibilities Design, develop, and deploy robust backend …",
-   "apply_url": "https://www.adzuna.in/details/5914221318?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "python developer"
-  },
-  {
-   "id": "az_5917364389",
-   "title": "Python Developer",
-   "company": "RECEX",
-   "location": "Mumbai, Maharashtra, India",
-   "type": "",
-   "posted": "2026-10-07",
-   "description": "Job Description: We have a opening for a Python Developer with 1–1.5 years of experience, with a strong focus on pure development. Candidates should be interested in working on Automation Testing, as the role will involve both Python development and automation testing. Key Details: Experience: 1–1.5 years Strong Python development experience required Interest in Automation Testing is essential Projects: AI-based projects Role will involve writing code in Python and working on Automation Testing",
-   "apply_url": "https://www.adzuna.in/details/5917364389?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "python developer"
-  },
-  {
-   "id": "az_5916889704",
-   "title": "Machine Learning Engineer",
-   "company": "Potentiam",
-   "location": "Bangalore, Karnataka, India",
-   "type": "",
-   "posted": "2026-10-07",
-   "description": "● Proven experience in training, evaluating and deploying machine learning models ● Solid understanding of data science and machine learning concepts ● Experience with some machine learning / data engineering machine learning tech in Python (such as numpy, pytorch, pandas/polars, airflow, etc) ● Experience developing data products using large language model, prompt engineering, model evaluation. ● Experience with web services and programming (such as Python, docker, databases etc.) ● Understand…",
-   "apply_url": "https://www.adzuna.in/details/5916889704?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "machine learning engineer"
-  },
-  {
-   "id": "az_5915322889",
-   "title": "Senior Data Scientist I",
-   "company": "Elsevier",
-   "location": "India, India",
-   "type": "",
-   "posted": "2026-10-07",
-   "description": "This job is with Elsevier, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Senior Data Scientist I Are you interested in working with data and analytics to solve problems? Are you interested in bringing your Gen AI, Machine Learning and NLP expertise to projects? About our Team:- Data Science Global Operations team works with a focus on Generative AI, Machine Learning, Natural Language Pr…",
-   "apply_url": "https://www.adzuna.in/land/ad/5915322889?se=avK_4bzY8RGFQ8wD9aNPrg&utm_medium=api&utm_source=76e676fd&v=6F23B5A17A49C2AC5306AD2ED9B209E07CA1A50F",
-   "source": "Adzuna",
-   "category": "data scientist"
   }
  ]
 }
