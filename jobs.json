@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-22T07:52:34+00:00",
- "count": 78,
+ "updated_at": "2026-11-23T08:43:56+00:00",
+ "count": 79,
  "jobs": [
   {
    "id": "az_5973499260",
@@ -61,6 +61,30 @@
    "apply_url": "https://www.adzuna.in/details/5973149231?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data analyst"
+  },
+  {
+   "id": "az_5972669963",
+   "title": "Machine Learning Engineer",
+   "company": "Weekday AI",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-11-20",
+   "description": "This role is for one of Weekday’s clients Salary range: Rs 2000000 - Rs 2500000 (ie INR 20 - 25 LPA) Min Experience: 3 years Location: Delhi, India JobType: full-time We are seeking a Machine Learning Engineer with 3 years of experience to design, deploy, and scale advanced NLP and Computer Vision models. If you excel at turning unstructured document data into production-ready AI solutions, we want to hear from you. Requirements ' • Design, develop, and deploy ML models for document intellige…",
+   "apply_url": "https://www.adzuna.in/details/5972669963?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "machine learning engineer"
+  },
+  {
+   "id": "az_5973146831",
+   "title": "Machine Learning Engineer",
+   "company": "Training Basket",
+   "location": "Ator Nagla, Ghaziabad, India",
+   "type": "permanent",
+   "posted": "2026-11-20",
+   "description": "Design, develop, and implement machine learning models and algorithms. Collect, clean, preprocess, and analyze structured and unstructured datasets. Build and optimize predictive models using machine learning techniques. Apply supervised, unsupervised, and reinforcement learning algorithms. Perform feature engineering, model training, validation, and evaluation. Work with Python libraries such as NumPy, Pandas, Scikit-learn, TensorFlow, and PyTorch. Develop and deploy machine learning models in…",
+   "apply_url": "https://www.adzuna.in/details/5973146831?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "machine learning engineer"
   },
   {
    "id": "az_5970787176",
@@ -925,18 +949,6 @@
    "apply_url": "https://www.adzuna.in/land/ad/5920915143?se=kGdTSpfV8RGRQOLR_vdAhg&utm_medium=api&utm_source=76e676fd&v=29CDE02A401B8097A13010C8EFDBC26F04310897",
    "source": "Adzuna",
    "category": "data engineer"
-  },
-  {
-   "id": "az_5918133861",
-   "title": "Data Analyst",
-   "company": "GreedyGame",
-   "location": "Bangalore, Karnataka, India",
-   "type": "permanent",
-   "posted": "2026-10-08",
-   "description": "About the Company Founded in 2013 by Arpit Jain (CEO), PubScale is a leading ad-tech company that drives app growth and monetization. We have built a sustainable, profitable business for over 7 years without chasing vanity metrics. Having completed our 0→1 journey, we are now scaling rapidly through our 1→10 phase. As a Google Publishing Partner, we serve 100M daily ad impressions and support 5,000 apps and games worldwide, delivering up to 75% revenue uplift. We are trusted by brands such as A…",
-   "apply_url": "https://www.adzuna.in/details/5918133861?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "data analyst"
   }
  ]
 }
