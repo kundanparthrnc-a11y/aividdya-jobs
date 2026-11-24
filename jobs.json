@@ -1,7 +1,19 @@
 {
- "updated_at": "2026-11-23T08:43:56+00:00",
+ "updated_at": "2026-11-24T10:44:40+00:00",
  "count": 79,
  "jobs": [
+  {
+   "id": "az_5976873818",
+   "title": "Lead, Data Engineering",
+   "company": "S&P Global",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-11-24",
+   "description": "This job is with S&P Global, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About the Role: Grade Level (for internal use): 11 S&P Dow Jones Indices The Role: Lead, Data Engineering We are seeking a hands-on Senior Data Engineer / Data Platform Lead to support our offshore team in India. This role focuses on executing data pipeline onboarding, migration, and support activities within our…",
+   "apply_url": "https://www.adzuna.in/land/ad/5976873818?se=KsrMCvTn8RG8veSj4TkfCw&utm_medium=api&utm_source=76e676fd&v=FEBB861BB8FA16CC6CBEAFA12EED9186F1F875C4",
+   "source": "Adzuna",
+   "category": "data engineer"
+  },
   {
    "id": "az_5973499260",
    "title": "Data Analyst",
@@ -13,6 +25,18 @@
    "apply_url": "https://www.adzuna.in/details/5973499260?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data analyst"
+  },
+  {
+   "id": "az_5973196149",
+   "title": "Data Engineer",
+   "company": "Trigent Software Private Limited",
+   "location": "Chauth Ka Barwara, Sawai Madhopur, India",
+   "type": "",
+   "posted": "2026-11-21",
+   "description": "Expected to be an SME, collaborate and manage the team to perform. Responsible for team decisions. Engage with multiple teams and contribute on key decisions. Provide solutions to problems for their immediate team and across multiple teams. Lead the development and implementation of best practices to enhance software quality and efficiency. Mentor and support team members to foster professional growth and skill development. Coordinate cross-functional efforts to ensure alignment with business o…",
+   "apply_url": "https://www.adzuna.in/details/5973196149?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data engineer"
   },
   {
    "id": "az_5972097783",
@@ -123,26 +147,14 @@
    "category": "data analyst"
   },
   {
-   "id": "az_5968049200",
-   "title": "Data Engineer",
-   "company": "Trigent Software Private Limited",
-   "location": "Richmond Town, Bangalore, India",
-   "type": "",
-   "posted": "2026-11-17",
-   "description": "The candidate will serve as a Monitoring Data Pipeline Engineer, responsible for designing, building, and maintaining robust, scalable, and highly observable data pipelines that ensure reliable data flow across the enterprise. The position emphasizes end to end observability, including metrics, logs, traces, data quality checks, and pipeline performance monitoring-to enable timely diagnostics, proactive issue prevention, and overall operational excellence.Job Role Responsibilities Build and mai…",
-   "apply_url": "https://www.adzuna.in/details/5968049200?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "data engineer"
-  },
-  {
-   "id": "az_5969063228",
+   "id": "az_5969063229",
    "title": "Data Engineer",
    "company": "Datamatics Technologies",
-   "location": "Bazargate, Mumbai, India",
+   "location": "Bangalore, Karnataka, India",
    "type": "",
    "posted": "2026-11-17",
    "description": "Location: UAE-based (Travel required) Duration: 6-month assignment Summary (Data Engineer) Timely, reliable data pipelines are what turn a platform design into business value. The Data Engineer builds and operates the pipelines that move data from source systems into the lakehouse and on to analytics and AI consumers, ensuring that the pipelines are automated, performant, secure and governed. The role works alongside the data architect, data quality engineer, business analysts and AI engineers,…",
-   "apply_url": "https://www.adzuna.in/details/5969063228?utm_medium=api&utm_source=76e676fd",
+   "apply_url": "https://www.adzuna.in/details/5969063229?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "data engineer"
   },
@@ -937,18 +949,6 @@
    "apply_url": "https://www.adzuna.in/details/5921179891?utm_medium=api&utm_source=76e676fd",
    "source": "Adzuna",
    "category": "machine learning engineer"
-  },
-  {
-   "id": "az_5920915143",
-   "title": "Lead Software Engineer (Data Engineer)",
-   "company": "S&P Global",
-   "location": "India, India",
-   "type": "",
-   "posted": "2026-10-09",
-   "description": "This job is with S&P Global, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. About the Role: Grade Level (for internal use): 10 S&P Dow Jones Indices The Role: Lead Software Engineer (Data Engineer) The Team: We are looking for a junior Data Engineer to join our offshore team in India. This role is focused on supporting data onboarding, pipeline support, and basic platform activities. You…",
-   "apply_url": "https://www.adzuna.in/land/ad/5920915143?se=kGdTSpfV8RGRQOLR_vdAhg&utm_medium=api&utm_source=76e676fd&v=29CDE02A401B8097A13010C8EFDBC26F04310897",
-   "source": "Adzuna",
-   "category": "data engineer"
   }
  ]
 }
