@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-11-26T09:15:57+00:00",
- "count": 82,
+ "updated_at": "2026-11-27T09:31:35+00:00",
+ "count": 81,
  "jobs": [
   {
    "id": "az_5978873996",
@@ -49,6 +49,18 @@
    "apply_url": "https://www.adzuna.in/land/ad/5976873825?se=Bo33Q7To8RGA3u67m8b2Fw&utm_medium=api&utm_source=76e676fd&v=B95549BA07B977664FA80FD76E49F0478206244E",
    "source": "Adzuna",
    "category": "data scientist"
+  },
+  {
+   "id": "az_5976364644",
+   "title": "Data Analyst",
+   "company": "Acme Services Private Limited",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-11-24",
+   "description": "Job Description: Data Pipeline Optimization: Hands-on experience building, maintaining, and optimizing robust end-to-end pipelines for data transformation Query Optimization: Strong proficiency in writing and optimizing complex SQL queries for performance tuning across large datasets; experience with query execution plans, indexing strategies, and partitioning. Big Data Technologies: Experience working with distributed data processing frameworks such as Apache Spark, Hadoop, or EMR; comfortable…",
+   "apply_url": "https://www.adzuna.in/details/5976364644?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "data analyst"
   },
   {
    "id": "az_5973499260",
@@ -855,18 +867,6 @@
    "category": "data scientist"
   },
   {
-   "id": "az_5929351063",
-   "title": "Data Analyst",
-   "company": "Acme Services Private Limited",
-   "location": "Richmond Town, Bangalore, India",
-   "type": "",
-   "posted": "2026-10-16",
-   "description": "Job Description: Identify data gaps and coordinate with business teams to capture, validate, and organize missing information. Perform data cleansing by identifying incorrect or incomplete data and executing remediation plans. Reconcile source and target data during migration using Excel and data analytics tools. Validate migrated data against defined mapping rules through quantitative and qualitative checks. Prepare reconciliation reports, highlight discrepancies, escalate issues, and drive th…",
-   "apply_url": "https://www.adzuna.in/details/5929351063?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "data analyst"
-  },
-  {
    "id": "az_5930601927",
    "title": "Data Analyst",
    "company": "GoTymeX",
@@ -973,18 +973,6 @@
    "apply_url": "https://www.adzuna.in/land/ad/5926970030?se=yn8lB6rc8RGUu4-u5QYtzw&utm_medium=api&utm_source=76e676fd&v=71EF113A4B6542089CB4D7659328AB82D16A383F",
    "source": "Adzuna",
    "category": "data scientist"
-  },
-  {
-   "id": "az_5923576234",
-   "title": "MLOps Engineer",
-   "company": "Creuto",
-   "location": "India, India",
-   "type": "permanent",
-   "posted": "2026-10-12",
-   "description": "MLOps Engineer DEPARTMENT Artificial Intelligence EMPLOYMENT TYPE Full Time LOCATION India EXPERIENCE 2 Years About the Role We are looking for an MLOps Engineer with 2 to 5 years of experience to build and maintain the infrastructure, pipelines, and tooling that take machine learning models from development to production reliably. You will work closely with data scientists and AI engineers to remove the friction between model building and model deployment. In This Role, You Will Build and mai…",
-   "apply_url": "https://www.adzuna.in/details/5923576234?utm_medium=api&utm_source=76e676fd",
-   "source": "Adzuna",
-   "category": "mlops engineer"
   }
  ]
 }
