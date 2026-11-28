@@ -1,7 +1,31 @@
 {
- "updated_at": "2026-11-27T09:31:35+00:00",
- "count": 81,
+ "updated_at": "2026-11-28T08:44:47+00:00",
+ "count": 83,
  "jobs": [
+  {
+   "id": "az_5981200228",
+   "title": "Data Analyst",
+   "company": "Colt Technology Services",
+   "location": "India, India",
+   "type": "",
+   "posted": "2026-11-28",
+   "description": "This job is with Colt Technology Services, an inclusive employer and a member of myGwork – the largest global platform for the LGBTQ business community. Please do not contact the recruiter directly. Why we need this role Conduct descriptive analysis, generate insights, manage and implement projects, and contribute to the creation of reports and management information What you will do Responsible for gathering and analysing data using specialist tools to generate insights and reports. Analysts w…",
+   "apply_url": "https://www.adzuna.in/land/ad/5981200228?se=BMsc9gfr8RG9irj35EcsaQ&utm_medium=api&utm_source=76e676fd&v=821E70E6DD8F195D78ED12CA810116D21B62475D",
+   "source": "Adzuna",
+   "category": "data analyst"
+  },
+  {
+   "id": "az_5980718365",
+   "title": "Generative AI Engineer",
+   "company": "TrueBlue",
+   "location": "Bangalore, Karnataka, India",
+   "type": "",
+   "posted": "2026-11-27",
+   "description": "Generative AI Engineer Role Overview: You will be responsible for the hands-on development, coding, and deployment of AI-powered features. Your focus is on writing clean, efficient code to integrate LLMs into our existing tech stack, building robust data pipelines for RAG, and ensuring the reliability of model outputs through rigorous testing and optimization. Key Responsibilities Application Implementation : Code and integrate LLM APIs (OpenAI, Anthropic, etc.) or local models into backend ser…",
+   "apply_url": "https://www.adzuna.in/details/5980718365?utm_medium=api&utm_source=76e676fd",
+   "source": "Adzuna",
+   "category": "generative ai engineer"
+  },
   {
    "id": "az_5978873996",
    "title": "DATA SCIENTIST II",
